@@ -1,5 +1,5 @@
 theme = "anatole"
-baseURL = "http://rjc123.github.com"
+baseURL = "http://rjc123.github.com/robincarswell.com"
 languageCode = "en-gb"
 
 [params]
