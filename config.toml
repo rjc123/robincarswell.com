@@ -1,10 +1,9 @@
 theme = "anatole"
-baseURL = "http://robincarswell.com/"
-languageCode = "en-us"
+baseURL = "http://rjc123.github.com/robincarswell.com/"
+languageCode = "en-gb"
 
 [params]
 title = "I'm Robin Carswell"
 author = "Robin Carswell"
 description = "Call me RJ"
-profilePicture = "images/profile.jpg"
-
+profilePicture = "images/robin-symbol.png"
