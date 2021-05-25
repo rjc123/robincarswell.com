@@ -1,0 +1,10 @@
+theme = "anatole"
+baseURL = "http://robincarswell.com/"
+languageCode = "en-us"
+
+[params]
+title = "I'm Robin Carswell"
+author = "Robin Carswell"
+description = "Call me RJ"
+profilePicture = "images/profile.jpg"
+
