@@ -3,7 +3,7 @@ title: "Getting started with Hugo"
 date: 2021-05-25T22:00:00+01:00
 ---
 
-I took the time to get [Hugo](https://gohugo.io) set up to replace my long neglected personal blog. Here's a roundup of the experience, and some notes for future reference.
+I took the time to get [Hugo](https://gohugo.io) set up to replace my long neglected personal blog. Here is the story.
 
 It was pretty straightforward and (aside from all the effort to port the content) only took a few hours following some (generally understandable) blog guidance.
 
