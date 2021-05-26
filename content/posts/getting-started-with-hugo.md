@@ -3,6 +3,8 @@ title: "Getting started with Hugo"
 date: 2021-05-25T22:00:00+01:00
 ---
 
+I took the time to get [Hugo](https://gohugo.io) set up to replace my long neglected personal blog. Here's a roundup of the experience, and some notes for future reference.
+
 It was pretty straightforward and (aside from all the effort to port the content) only took a few hours following some (generally understandable) blog guidance.
 
 1. Get a hugo blog working using the [quickstart guide](https://gohugo.io/getting-started/quick-start/).
@@ -14,4 +16,5 @@ It was pretty straightforward and (aside from all the effort to port the content
 7. [Still to do] Get all the historical content in shape. No wonder I'm stalled here.
 8. [Still to do] Set up the domain.
 
-This post itself might seem pretty simplistic. It is. I'm really just writing this for one person, "Future Robin" -- because he's not as knowledgeable about what's going on here as I am.
+For a lot of people, this post itself might seem pretty simplistic. It is. I'm really just writing this for one person, "Future Robin" -- because he's not nearly as knowledgeable about this setup as I am.
+
