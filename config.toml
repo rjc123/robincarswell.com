@@ -3,7 +3,7 @@ baseURL = "http://rjc123.github.com/robincarswell.com"
 languageCode = "en-gb"
 
 [params]
-title = "I'm Robin Carswell"
+title = "Robin Carswell"
 author = "Robin Carswell"
-description = "Call me RJ"
+description = "I do technology, product and business strategy projects in the UK. I spend my spare time on tech for good and venturebuilding."
 profilePicture = "images/robin-symbol.png"
