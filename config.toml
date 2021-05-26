@@ -1,12 +1,27 @@
-theme = "anatole"
+
+# Basic site config
+
 baseURL = "https://robincarswell.com"
 languageCode = "en-gb"
+DefaultContentLanguage = "en-gb"
+title = "Robin Carswell"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
 
 [params]
 title = "Robin Carswell"
 author = "Robin Carswell"
 description = "I do technology, product and business strategy projects in the UK. I spend my spare time on tech for good and venturebuilding."
 profilePicture = "images/robin-symbol.png"
-
-
+copyright = "2021 Robin Carswell"
 
