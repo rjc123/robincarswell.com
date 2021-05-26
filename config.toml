@@ -6,7 +6,7 @@ languageCode = "en-gb"
 DefaultContentLanguage = "en-gb"
 title = "Robin Carswell"
 theme = "anatole"
-summarylength = 10
+summarylength = 20
 enableEmoji = true
 enableRobotsTXT = true
 
