@@ -1,5 +1,5 @@
 theme = "anatole"
-baseURL = "http://rjc123.github.com/robincarswell.com"
+baseURL = "https://robincarswell.com"
 languageCode = "en-gb"
 
 [params]
@@ -7,3 +7,6 @@ title = "Robin Carswell"
 author = "Robin Carswell"
 description = "I do technology, product and business strategy projects in the UK. I spend my spare time on tech for good and venturebuilding."
 profilePicture = "images/robin-symbol.png"
+
+
+
