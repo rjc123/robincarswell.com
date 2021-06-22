@@ -1,23 +1,14 @@
-
 # Basic site config
-
 baseURL = "https://robincarswell.com"
 languageCode = "en-gb"
 DefaultContentLanguage = "en-gb"
-title = "Robin Carswell"
 theme = "anatole"
 summarylength = 20
 enableEmoji = true
 enableRobotsTXT = true
 
 
-# Enable Disqus
-#disqusShortname = ""
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
-
+# Site content
 [params]
 title = "Robin Carswell"
 author = "Robin Carswell"
@@ -25,3 +16,7 @@ description = "I do technology, product and business strategy projects in the UK
 profilePicture = "images/robin-symbol.png"
 copyright = "{{ YEAR }} Robin Carswell"
 
+
+# Analytics and Plugins
+#disqusShortname = ""
+googleAnalytics = "G-9F57FFB75P"
