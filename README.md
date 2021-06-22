@@ -1,4 +1,4 @@
-## A Hugo project to set up Robin Carswell's blog
+## A Hugo project to set up Robin Carswell's personal site
 
 A simple set up, per the instructions I found on the interwebs.
 
