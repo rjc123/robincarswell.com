@@ -6,6 +6,7 @@ theme = "anatole"
 summarylength = 20
 enableEmoji = true
 enableRobotsTXT = true
+displayMode = "dark"
 
 
 # Site content
@@ -19,4 +20,5 @@ copyright = "{{ YEAR }} Robin Carswell"
 
 # Analytics and Plugins
 #disqusShortname = ""
-googleAnalytics = "G-9F57FFB75P"
+gtagId = "G-9F57FFB75P"
+
