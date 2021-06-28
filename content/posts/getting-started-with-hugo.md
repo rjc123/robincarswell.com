@@ -14,7 +14,7 @@ It was pretty straightforward and (aside from all the effort to port the content
 5. Figure out how the [build setup](https://github.com/peaceiris/actions-hugo) works. It's documented at a level above my understanding, so took a bit of time to figure out. [This blog post](https://medium.com/zendesk-engineering/a-github-actions-workflow-to-generate-publish-your-hugo-website-f36375e56cf7) helped.
 6. Write (and then update) [this blog post](/posts/getting-started-with-hugo/).
 7. [Still to do] Get all the historical content in shape. No wonder I'm stalled here.
-8. [Still to do] Set up the domain.
+8. Set up the domain.
 
 For a lot of people, this post itself might seem pretty simplistic. It is. I'm really just writing this for one person, "Future Robin" -- because he's not nearly as knowledgeable about this setup as I am.
 
