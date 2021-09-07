@@ -34,3 +34,8 @@ url = "https://uk.linkedin.com/in/robincarswell"
 icon = "fab fa-github"
 title = "Github"
 url = "https://github.com/rjc123"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:hello@robincarswell.com"
