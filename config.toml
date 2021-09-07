@@ -29,3 +29,8 @@ gtagId = "G-9F57FFB75P"
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://uk.linkedin.com/in/robincarswell"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/rjc123"
