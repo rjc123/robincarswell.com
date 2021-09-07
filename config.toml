@@ -22,3 +22,10 @@ copyright = "{{ YEAR }} Robin Carswell"
 #disqusShortname = ""
 gtagId = "G-9F57FFB75P"
 
+
+# Socials
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://uk.linkedin.com/in/robincarswell"
