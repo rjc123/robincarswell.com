@@ -46,4 +46,6 @@ You have the rest of your life ahead of you, which means you have plenty of time
 
 --------
 
-I'm not actually sure what editing this accomplished, but it definitely shows up in a lot of the psychological research I've done while working on [JOBZ](https://getjobz.co). There's a lot to be said for being a singleton-freelancer....but after a while enjoying the freedom of the market, most people in that space are simply looking for a good career to help them get the best from their skills. 
+I'm not actually sure what editing this accomplished, but it definitely shows up in a lot of the psychological research I've done while working on [JOBZ](https://getjobz.co). There's a lot to be said for being a singleton-freelancer....but after a while enjoying the freedom of the market, most people in that space are looking for a good and stable career to help them get the best from their skills. 
+
+Interestingly, drawing the parallel between the nature of dating and the job search was a worthwhile experiment. Thank you for coming to my TED talk.
