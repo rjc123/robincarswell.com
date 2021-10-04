@@ -3,7 +3,9 @@ title: "All the Reasons You're Unemployed"
 date: 2021-10-04T13:00:00+01:00
 ---
 
-*Note: This post is a mashup of [a medium post that showed up in my inbox](https://syarifahrasul.medium.com/reasons-you-re-single-despite-being-a-hottie-f3e7d2ccf910).*
+*Note: This post is an edit of [a Medium post that showed up in my inbox](https://syarifahrasul.medium.com/reasons-you-re-single-despite-being-a-hottie-f3e7d2ccf910).*
+
+**I've been told it's probably a good idea to read the original Medium article first.**
 
 --------
 
