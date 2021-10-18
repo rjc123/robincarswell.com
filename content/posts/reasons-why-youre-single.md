@@ -5,7 +5,11 @@ date: 2021-10-04T13:00:00+01:00
 
 *Note: This post is an edit of [a Medium post that showed up in my inbox](https://syarifahrasul.medium.com/reasons-you-re-single-despite-being-a-hottie-f3e7d2ccf910).*
 
-**I've been told it's probably a good idea to read the original Medium article first.**
+Before reading this edit, **I've been told it's probably a good idea to read the original Medium article.**
+
+I'm not actually sure what plagiarising this accomplished, but the parallel definitely shows up in a lot of the psychological research I've done while working on [JOBZ](https://getjobz.co). There's a lot to be said for being a singleton-freelancer...but after a while enjoying the freedom of the market, most people in that space are looking for a good and stable career to help them get the best from their skills. 
+
+The job search: it's a heavy psychological challenge.
 
 --------
 
@@ -45,7 +49,5 @@ The feeling of being able to do anything one wants whenever one wants without co
 You have the rest of your life ahead of you, which means you have plenty of time to find a wonderful company. Why would you settle for anything less than the best when you know that the greatest is out there and that you are deserving of it? Whatever the length of time it takes, you’re satisfied to carry on with your life until it happens.
 
 --------
-
-I'm not actually sure what editing this accomplished, but it definitely shows up in a lot of the psychological research I've done while working on [JOBZ](https://getjobz.co). There's a lot to be said for being a singleton-freelancer....but after a while enjoying the freedom of the market, most people in that space are looking for a good and stable career to help them get the best from their skills. 
 
 Interestingly, drawing the parallel between the nature of dating and the job search was a worthwhile experiment. Thank you for coming to my TED talk.
