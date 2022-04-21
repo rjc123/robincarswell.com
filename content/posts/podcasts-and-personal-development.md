@@ -3,9 +3,9 @@ title: "Podcasts and Personal Development"
 date: 2022-01-01T13:00:00+01:00
 ---
 
-Here's a list of podcasts and resources for your personal development in tech and startups.
+Here's a list of podcasts and resources for personal development in tech and startups.
 
-I'm putting it here, so that I don't lose it my common, modern, digital hoarding behaviour.
+I'm putting it here, so that I don't lose it in the giant email pile.
 
 ### Leadership and Management
 
@@ -55,8 +55,8 @@ I'm putting it here, so that I don't lose it my common, modern, digital hoarding
 * The Knowledge Project (Shane Parrish)
 * Humans Leading Humans (Katz Kiely)
 * The Idealcast (Gene Kim)
-* Some of Making Sense (Sam Harris), though a lot of it is politics and other distractions.
-* and I should also plug my own Tech Debt Burndown
+* Some of Making Sense (Sam Harris)
+* Tech Debt Burndown (Chris Swan)
 
 
 
