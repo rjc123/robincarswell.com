@@ -17,6 +17,8 @@ I'm putting it here, so that I don't lose it in the giant email pile.
 * Soft Skills Engineering
 * Scaling Software Teams
 * Manager Tools
+* Make Work Better by Bruce Daisley
+* Culture Study by Anne Helen Petersen
 
 ### Product
  
@@ -33,6 +35,8 @@ I'm putting it here, so that I don't lose it in the giant email pile.
 * The Pitch
 * The Heartbeat
 * a16z Podcast
+* Exponential View by Azeem Azhar
+* PreSeed Now by Martin SFP Bryant
 
 ### Engineering
 
@@ -57,6 +61,10 @@ I'm putting it here, so that I don't lose it in the giant email pile.
 * The Idealcast (Gene Kim)
 * Some of Making Sense (Sam Harris)
 * Tech Debt Burndown (Chris Swan)
+* Exponential View by Azeem Azhar
+* Every by Dan Shipper
+
+
 
 
 
