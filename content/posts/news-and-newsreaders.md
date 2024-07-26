@@ -17,7 +17,7 @@ These aggregated sources would be consumed alongside the paid media I find usefu
 
 ## Apps Reviewed
 
-### [POCKET](getpocket.com)
+### [POCKET](https://getpocket.com)
 
 * Their sign-in process is atrocious. Instead of signing into Pocket, you're signing into someting called Mozilla Auth hosted at firefox.com. A super confusing brand experience.
 
