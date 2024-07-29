@@ -3,13 +3,15 @@ title: "All the Reasons You're Unemployed"
 date: 2021-10-04T13:00:00+01:00
 ---
 
-*Note: This post is an edit of [a Medium post that showed up in my inbox](https://syarifahrasul.medium.com/reasons-you-re-single-despite-being-a-hottie-f3e7d2ccf910).*
+A [Medium post](https://syarifahrasul.medium.com/reasons-you-re-single-despite-being-a-hottie-f3e7d2ccf910) showed up in my inbox. I was job hunting, and saw a strong parallel.
 
-Before reading this edit, **I've been told it's probably a good idea to read the original Medium article.**
+*Edit 1: Before reading my parallel, I've been told it's probably a good idea to read the [original Medium article](https://syarifahrasul.medium.com/reasons-you-re-single-despite-being-a-hottie-f3e7d2ccf910).*
 
-I'm not actually sure what plagiarising this accomplished, but the parallel definitely shows up in a lot of the psychological research I've done while working on [JOBZ](https://getjobz.co). There's a lot to be said for being a singleton-freelancer...but after a while enjoying the freedom of the market, most people in that space are looking for a good and stable career to help them get the best from their skills. 
+*Edit2: And before you can read that original post, you need to find it. Here's a ["wayback"](https://web.archive.org/web/20211003124428/https://syarifahrasul.medium.com/reasons-you-re-single-despite-being-a-hottie-f3e7d2ccf910) that doesn't actually have the full original content. [Medium](https://medium.com) seems like they're a contributor to [link rot](https://en.wikipedia.org/wiki/Link_rot). Let me know if you find the original somewhere.* 
 
-The job search: it's a heavy psychological challenge.
+### All the reasons you're unemployed
+
+The job search: it's a heavy psychological challenge, much like being on the dating market. 
 
 > **Reasons You‘re Unemployed Despite Being a Hottie**
 >
