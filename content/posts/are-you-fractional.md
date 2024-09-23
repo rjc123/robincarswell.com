@@ -19,7 +19,7 @@ I'm also interim. I'm also a consultant. And a contractor. It's important to rec
 ![Another post-it](/images/2-by-2-fractional.jpg)
 Another post-it to try and simplify the conversation
 
-At the risk of restating the obvious, if the engagement structure isn't right for the needs of firm, you'll end up with a failed project. Either outcomes aren't realised, or they're realised at a massive cost-overrun -- both bad for both the client and the provider. 
+At the risk of restating the obvious, if the engagement structure isn't right for the needs of the firm, you'll end up with a failed project. Either outcomes aren't realised, or they're realised at a massive cost-overrun -- both bad for both the client and the provider. 
 
 ### [The 100 Year Life](https://www.100yearlife.com/)
 
