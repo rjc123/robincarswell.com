@@ -36,6 +36,7 @@ Here's what I've done:
 6. Construct some textfiles to make it legible using a script [1]
 7. Do a one-time media shift, so images are captured properly.
 8. Put the tweets [here in my blog](/twitter).
+9. Update my social presence icons -- find me on [Bluesky](https://bsky.app/profile/robincarswell.bsky.social)
 
 ## Learnings
 
