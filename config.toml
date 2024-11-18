@@ -37,10 +37,14 @@ title = "Github"
 url = "https://github.com/rjc123"
 
 [[params.socialIcons]]
+icon = "fab fa-bluesky"
+title = "Bluesky"
+url = "https://bsky.app/profile/robincarswell.bsky.social"
+
+[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:hello@robincarswell.com"
-
 
 # Menus
 
