@@ -1,7 +1,6 @@
 ---
 title: "EX-Twitter: A half-day-only project"
 date: 2024-11-18T14:29:56Z
-draft: true
 description: "A half-day-only project on preserving my twitter presence without using Twitter"
 summary: "X-Twitter is now a cesspool. Here's my exit from that cesspool."
 ---
