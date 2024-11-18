@@ -17,9 +17,10 @@ description = "I do technology, product and business strategy projects in the UK
 profilePicture = "images/rjc.png"
 copyright = "{{ YEAR }} Robin Carswell"
 favicon = "/favicon/"
+mainSections = ["posts"]
 
 # Analytics and Plugins
-#disqusShortname = ""
+# disqusShortname = ""
 gtagId = "G-9F57FFB75P"
 
 
@@ -39,3 +40,21 @@ url = "https://github.com/rjc123"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:hello@robincarswell.com"
+
+
+# Menus
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+  [[menus.main]]
+    name = 'Twitter'
+    pageRef = '/twitter'
+    weight = 30
+
