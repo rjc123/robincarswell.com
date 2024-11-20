@@ -58,7 +58,11 @@ url = "mailto:hello@robincarswell.com"
     pageRef = '/posts'
     weight = 20
   [[menus.main]]
+    name = 'Startups'
+    pageRef = '/startups'
+    weight = 30
+  [[menus.main]]
     name = 'Twitter'
     pageRef = '/twitter'
-    weight = 30
+    weight = 40
 
