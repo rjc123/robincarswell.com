@@ -9,6 +9,8 @@ aliases:
 
 Just a quick list of AI agents that might be worth a look, cribbed from some other image floating around in the ether-inter-webnet. 
 
+* Caveat: This list of domains was generated using Chat GPT. It's probably full of broken links -- as I go through the research, I'll probably update them.*
+
 ---
 
 ### **AI Agents Builder**  
