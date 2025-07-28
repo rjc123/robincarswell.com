@@ -16,7 +16,7 @@ In the site, he made [his own start page](https://misterpants.com/start)
 
 I stole his and [made my own Canadian version](/misterSTARTpants.htm). 
 
-And today, I've [remade a hack of it](/start) so I can switch my local homepage away from Google. 
+And today, I've [remade a hack of it](/start.htm) so I can switch my local homepage away from Google. 
 
 ## But why?
 
