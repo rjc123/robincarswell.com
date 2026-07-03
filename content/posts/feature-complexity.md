@@ -37,7 +37,3 @@ Build value first. The features that establish the core product loop — the one
 Hard features scheduled late are often also smaller when you get to them. The product has evolved. Requirements have clarified. What looked like a six-week piece of work might turn out to be two.
 
 Put the difficult things at the back. They'll be there when you're ready for them.
-
----
-
-*Things to verify before publishing: this is based on general professional experience — no specific client or engagement is named, so no verification needed beyond Robin's own accuracy check.*
