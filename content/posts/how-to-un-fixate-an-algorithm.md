@@ -4,6 +4,9 @@ description: I accidentally bought sugar-free Heinz beans. Amazon has not forgot
 summary: I accidentally bought sugar-free Heinz beans on Amazon. Then I bought them again. Then, in a moment of discount-induced madness, I ordered a case. I still have fifteen tins to get through and Amazon is still recommending reduced-sugar condiments. This is a story about feedback loops with no exit.
 date: 2026-04-01T13:53:00Z
 draft: false
+categories:
+  - "Life, Fun and Art"
+  - "Public Interest"
 ---
 
 I accidentally bought sugar-free Heinz beans on Amazon. The product listing looks almost identical to the regular ones — close enough that I didn't notice until the box arrived. I noticed my mistake too late, shrugged, and ate them.

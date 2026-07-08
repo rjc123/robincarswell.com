@@ -2,6 +2,10 @@
 title: "Twitter archive, 2015"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2015-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2015/"
 ---
 > What It Means When Law Firms And Startups Give Away Legal Documents | TechCrunch [http://tcrn.ch/14ViJ71](http://tcrn.ch/14ViJ71)
 

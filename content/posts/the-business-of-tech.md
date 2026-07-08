@@ -1,6 +1,8 @@
 ---
 title: "Hardware? Hard luck."
 date: 2019-10-04T13:00:00+01:00
+categories:
+  - "Public Interest"
 ---
 
 To replace a really old Denon that finally gave up the ghost, a few years ago I bought myself a Yamaha VX-R675. It's great -- I can tune into the radio, listening to that great legacy media without dealing with retargeted ads that keep pummelling me with the same ad for something I already own. #surveillancecapitalism

@@ -2,6 +2,10 @@
 title: "Twitter archive, 2010"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2010-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2010/"
 ---
 > Launch48 from the inside. I sure wouldn't want to have these types of teething problems on my own venture!
 

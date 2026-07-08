@@ -1,6 +1,9 @@
 ---
 title: "GOV.UK wins Design of the Year!"
 date: 2013-04-29T16:00:00+01:00
+categories:
+  - "Working Life"
+  - "Public Interest"
 ---
 
 For the past several months, I've been working on building out [gov.uk](https://gov.uk). More precisely, the Inside Government team, working up new product development and content transition. 

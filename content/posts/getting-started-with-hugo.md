@@ -1,6 +1,9 @@
 ---
 title: "Getting started with Hugo"
 date: 2021-05-25T22:00:00+01:00
+categories:
+  - "Life, Fun and Art"
+  - "Ideas and Adventures"
 ---
 
 I took the time to get [Hugo](https://gohugo.io) set up to replace my long neglected personal blog. Here is the story.

@@ -3,6 +3,8 @@
 title: "Fractional? Part-time? Unemployed?"
 description: "Are you fractional? Or are you just out of work?"
 date: 2024-09-03T18:18:00+01:00
+categories:
+  - "Working Life"
 ---
 
 I was asked on a call last month... "Are you really fractional? Or are you just out of work?" [1]

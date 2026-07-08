@@ -5,6 +5,8 @@ description: "Just a roundup of AI Agents that might be worth a look"
 summary: "Just a roundup of AI Agents that might be worth a look"
 aliases:
 
+categories:
+  - "Ideas and Adventures"
 ---
 
 Just a quick list of AI agents that might be worth a look, cribbed from some other image floating around in the ether-inter-webnet. 

@@ -4,6 +4,8 @@ description: Scheduling your hardest feature first is almost always a mistake. T
 summary: There are three things that happen when you put a complex, risky feature at the front of your development pipeline. You kill your team. You block everything behind it. Or you spike an external team to build it and hand the code back to people who've never seen it. None of these are good. The fix is obvious in retrospect.
 date: 2026-04-09T14:17:00Z
 draft: false
+categories:
+  - "Working Life"
 ---
 
 There are three things that happen when you put a complex, risky feature at the front of your development pipeline.

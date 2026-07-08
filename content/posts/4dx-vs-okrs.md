@@ -4,6 +4,8 @@ description: I've used both. Here's which one actually changed what I did on a M
 summary: By 2021 I had read both books, set up both systems, and was running a business using a mixture of the two. One of them changed what I did on a Monday morning. The other produced some excellent documents I never looked at again — and got worse the longer we used it.
 date: 2026-03-25T14:37:00Z
 draft: false
+categories:
+  - "Working Life"
 ---
 
 By 2021 I had read both books. I'd set up quarterly OKRs with key results and owners. I'd also worked through 4DX — the Wildly Important Goal, the lead measures, the scoreboard, the cadence of accountability.

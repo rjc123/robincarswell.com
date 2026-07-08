@@ -4,6 +4,9 @@ date: 2025-02-19T14:30:03Z
 draft: false
 description: "Just an update of my own starting out in the internet world"
 summary: "A new starting point for the internet"
+categories:
+  - "Life, Fun and Art"
+  - "Ideas and Adventures"
 ---
 
 ## What the heck do you mean?

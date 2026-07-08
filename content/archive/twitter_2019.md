@@ -2,6 +2,10 @@
 title: "Twitter archive, 2019"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2019-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2019/"
 ---
 > RT @humanworkplace: 10 reasons to run from a job opportunity:  
 >   

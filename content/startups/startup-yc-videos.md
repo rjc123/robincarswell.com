@@ -3,6 +3,8 @@ title: "Startup YCombinator Videos"
 date: 2020-01-01
 description: "Another list of resources for early stage founders"
 summary: "Another list of resources for early stage founders"
+categories:
+  - "Ideas and Adventures"
 ---
 
 List of startup YC videos -- just putting here for reference

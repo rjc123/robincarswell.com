@@ -1,6 +1,9 @@
 ---
 title: "Podcasts and Personal Development"
 date: 2022-01-01T13:00:00+01:00
+categories:
+  - "Working Life"
+  - "Life, Fun and Art"
 ---
 
 Here's a list of podcasts and resources for personal development in tech and startups.

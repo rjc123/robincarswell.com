@@ -2,6 +2,8 @@
 ---
 title: "Hiring in the Modern World, Job Hunting in the Modern World or How I Stopped Worrying and Learned to Love the Bomb"
 date: 2024-07-29T14:00:00+01:00
+categories:
+  - "Working Life"
 ---
 
 I'm currently active in the talent market, looking for professional opportunity, opportunity to use my skills for the benefit of society, and the opportunity to feed the family. 

@@ -1,6 +1,9 @@
 ---
 title: "Risk Roadmapping 101"
 date: 2023-12-06T15:37:00+01:00
+categories:
+  - "Working Life"
+  - "Ideas and Adventures"
 ---
 
 *Thanks Chat GPT! Making this blog post was super simple.*

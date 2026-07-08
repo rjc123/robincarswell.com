@@ -4,6 +4,9 @@ date: 2024-07-26T14:50:00+01:00
 aliases:
 - readinglist.md
 
+categories:
+  - "Working Life"
+  - "Life, Fun and Art"
 ---
 
 I stole this list from someone I respect on the socials. But since he doesn't know I respect him, I'm sure it's fine to stick on the blog for future reference. 

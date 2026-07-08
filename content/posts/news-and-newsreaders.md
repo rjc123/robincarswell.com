@@ -1,6 +1,8 @@
 ---
 title: "News and Newsreaders"
 date: 2023-12-15T14:16:00+01:00
+categories:
+  - "Life, Fun and Art"
 ---
 
 I've been finding my niche news consumption to be really challenged recently -- requiring a lot of manual management of links and feeds and it's becoming unwieldy. So I set out to evaluate and clean up my systems.

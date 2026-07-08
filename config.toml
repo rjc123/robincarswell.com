@@ -1,7 +1,7 @@
 # Basic site config
+title = "Robin Carswell"
 baseURL = "https://robincarswell.com"
-languageCode = "en-gb"
-DefaultContentLanguage = "en-gb"
+defaultContentLanguage = "en-gb"
 theme = "anatole"
 summarylength = 20
 enableEmoji = true
@@ -11,6 +11,7 @@ displayMode = "dark"
 
 # Site content
 [params]
+customCss = ["css/custom.css"]
 title = "Robin Carswell"
 author = "Robin Carswell"
 description = "I do technology, product and business strategy projects in the UK. I spend my spare time on tech for good and venturebuilding."
@@ -48,23 +49,45 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:hello@robincarswell.com"
 
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  series = "series"
+
 # Menus
 
 [menus]
+  [[menus.footer]]
+    name = 'Now'
+    pageRef = '/now'
+    weight = 10
+  [[menus.footer]]
+    name = 'About'
+    url = '/about'
+    weight = 20
+
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Posts'
-    pageRef = '/posts'
-    weight = 20
-  [[menus.main]]
-    name = 'Startups'
-    pageRef = '/startups'
-    weight = 30
-  [[menus.main]]
-    name = 'Twitter'
-    pageRef = '/twitter'
+    name = 'Working Life'
+    url = '/categories/working-life/'
     weight = 40
+  [[menus.main]]
+    name = 'Life, Fun & Art'
+    url = '/categories/life-fun-and-art/'
+    weight = 50
+  [[menus.main]]
+    name = 'Ideas & Adventures'
+    url = '/categories/ideas-and-adventures/'
+    weight = 60
+  [[menus.main]]
+    name = 'Public Interest'
+    url = '/categories/public-interest/'
+    weight = 70
+  [[menus.main]]
+    name = 'Archive'
+    pageRef = '/archive'
+    weight = 80
 

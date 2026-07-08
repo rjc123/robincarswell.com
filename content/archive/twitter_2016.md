@@ -2,6 +2,10 @@
 title: "Twitter archive, 2016"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2016-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2016/"
 ---
 > LinkedIn! - Jesus, didn’t I already talk about this forever ago? [http://tmblr.co/ZtmWiw20EOudV](http://tmblr.co/ZtmWiw20EOudV)
 

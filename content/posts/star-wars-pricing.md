@@ -1,6 +1,9 @@
 ---
 title: "Star Wars Pricing"
 date: 2021-09-10T18:00:00+01:00
+categories:
+  - "Life, Fun and Art"
+  - "Ideas and Adventures"
 ---
 
 > *Ben Obi-Wan Kenobi: Let’s just say we’d like to avoid any Imperial entanglements.*

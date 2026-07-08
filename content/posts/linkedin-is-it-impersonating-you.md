@@ -3,6 +3,8 @@ title: "LinkedIn: Is it impersonating you?"
 description: "Not yet, but not not-ever"
 summary: "Not yet, but not not-ever"
 date: 2024-10-02T13:09:00+01:00
+categories:
+  - "Public Interest"
 ---
 
 Not yet, but not not-ever.

@@ -2,6 +2,10 @@
 title: "Twitter archive, 2021"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2021-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2021/"
 ---
 > RT @SachinMonga: Here's a theory that I think helps explain:  
 >   

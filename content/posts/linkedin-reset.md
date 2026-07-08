@@ -4,6 +4,9 @@ date: 2024-08-19T13:52:00+01:00
 aliases:
 - linkedin-login.md
 
+categories:
+  - "Working Life"
+  - "Public Interest"
 ---
 
 My LinkedIn account was hacked this morning. 

@@ -2,6 +2,10 @@
 title: "Twitter archive, 2020"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2020-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2020/"
 ---
 Replying to [@alexdunsdon](https://twitter.com/alexdunsdon/status/1212638859995078656)
 

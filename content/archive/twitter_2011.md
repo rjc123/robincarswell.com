@@ -2,6 +2,10 @@
 title: "Twitter archive, 2011"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2011-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2011/"
 ---
 > Hoping to make it to #GSMA #MWC11 but the pricing isn't pre-funding startup friendly! Anyone know of free floor pass contests going on?
 

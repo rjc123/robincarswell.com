@@ -1,6 +1,9 @@
 ---
 title: "Four Words and Five Lines"
 date: 2018-05-04T10:13:00+01:00
+categories:
+  - "Working Life"
+  - "Life, Fun and Art"
 ---
 
 The four words and five lines that matter in speech-writing. For those of you who give speeches, rather than just soapbox rants.

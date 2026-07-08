@@ -3,6 +3,9 @@ title: "EX-Twitter: A half-day-only project"
 date: 2024-11-18T14:29:56Z
 description: "A half-day-only project on preserving my twitter presence without using Twitter"
 summary: "X-Twitter is now a cesspool. Here's my exit from that cesspool."
+categories:
+  - "Ideas and Adventures"
+  - "Public Interest"
 ---
 
 I've decided to exit Twitter. I'm going to leave the profile alive, so that strangers can't easily claim my user name, and/or hijack my identity. [This isn't a challenge - don't take it as one.]

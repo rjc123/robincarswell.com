@@ -1,6 +1,9 @@
 ---
 title: "A Box of Agile"
 date: 2015-06-09T18:00:00+01:00
+categories:
+  - "Working Life"
+  - "Life, Fun and Art"
 ---
 
 Just a round-up of the stationery I normally buy to help in professional contexts. It's useful to have it all in the same list.

@@ -4,6 +4,9 @@ description: "The risk was accepted thirteen years ago. A different person took 
 summary: "I was in the room — or close enough — when the OBR was asked to move to GOV.UK and declined. Thirteen years later, that decision cost someone their job."
 date: 2026-03-05T00:00:00+00:00
 draft: false
+categories:
+  - "Working Life"
+  - "Public Interest"
 ---
 
 I was in the room — or close enough — when the Office for Budget Responsibility was asked to move its publishing to GOV.UK. The conversation was clear: a small organisation, running market-sensitive economic data, should probably be on the government's own hardened publishing platform rather than a self-managed WordPress site.

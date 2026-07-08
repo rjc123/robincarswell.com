@@ -2,6 +2,10 @@
 title: "Twitter archive, 2017"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2017-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2017/"
 ---
 > [http://bit.ly/2kAJntm](http://bit.ly/2kAJntm)
 

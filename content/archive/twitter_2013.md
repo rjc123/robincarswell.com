@@ -2,6 +2,10 @@
 title: "Twitter archive, 2013"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2013-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2013/"
 ---
 > Building a Charts Dashboard with Google Apps Script - YouTube [http://bit.ly/UqMamW](http://bit.ly/UqMamW)
 

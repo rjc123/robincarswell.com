@@ -2,6 +2,10 @@
 title: "Twitter archive, 2024"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2024-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2024/"
 ---
 > Hey @VirginAtlantic - log-in for your app is broken, and has been for about a week. Any timelines for a fix? 
 > 

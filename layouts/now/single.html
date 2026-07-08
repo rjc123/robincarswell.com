@@ -1,0 +1,40 @@
+{{ define "main" }}
+  <div class="post animated fadeInDown">
+    <div class="post__content">
+      <h1>Now</h1>
+      <p class="now__updated">Last updated: {{ .Page.Lastmod.Format "2 January 2006" }}</p>
+
+      {{- $sabbatical := where .Site.RegularPages "Params.series" "AI Sabbatical" -}}
+      {{- $sabbatical = sort $sabbatical "Date" "desc" -}}
+
+      <section class="now__block">
+        <h2>The NoCode CTO</h2>
+        <p>
+          I run <a href="https://thenocodecto.com" target="_blank" rel="noopener noreferrer">The NoCode CTO</a> —
+          practical technology strategy and product leadership for founders and leadership teams who need
+          a senior technical voice without a full-time hire.
+        </p>
+      </section>
+
+      <section class="now__block">
+        <h2>Ventures</h2>
+        <!-- PLACEHOLDER: Robin to supply active ventures list before publishing -->
+        <p><em>Coming soon — ventures and side projects I'm actively working on.</em></p>
+      </section>
+
+      <section class="now__block">
+        <h2>AI Sabbatical</h2>
+        <p>A writing series on what it actually looks like to build with AI in 2025–2026.</p>
+        {{- if $sabbatical -}}
+          <ul class="now__series-list">
+            {{- range $sabbatical -}}
+              <li><a href="{{ .Permalink }}">{{ .Title }}</a> <span class="now__series-date">— {{ .Date.Format "January 2006" }}</span></li>
+            {{- end -}}
+          </ul>
+        {{- else -}}
+          <p><em>No posts yet — the series is forthcoming.</em></p>
+        {{- end -}}
+      </section>
+    </div>
+  </div>
+{{ end }}

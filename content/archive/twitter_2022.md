@@ -2,6 +2,10 @@
 title: "Twitter archive, 2022"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2022-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2022/"
 ---
 Replying to [@hnshah and @LinkedIn](https://twitter.com/hnshah/status/1479318021009076225)
 

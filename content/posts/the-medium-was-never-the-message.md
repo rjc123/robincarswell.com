@@ -4,6 +4,9 @@ description: A developer friend built a Markov chain to fake our chief's weekly 
 summary: Every Monday morning, without fail, the email arrived. Same subject line, same tone, same imprecise warmth. A developer friend decided to find out whether it needed a human to write it. It didn't.
 date: 2026-04-14T13:23:00Z
 draft: false
+categories:
+  - "Working Life"
+  - "Life, Fun and Art"
 ---
 
 Every Monday morning, without fail, the email arrived. The subject line varied slightly — something about the week ahead, or the quarter, or the "journey" the team was on — but the tone never did. Warm. Vague. Gently motivational. The kind of prose that sounds purposeful until you try to summarise it.

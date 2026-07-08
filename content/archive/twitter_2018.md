@@ -2,6 +2,10 @@
 title: "Twitter archive, 2018"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2018-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2018/"
 ---
 > "Aren't you afraid of new technology?" "No, I'm afraid of old technology." [https://www.nytimes.com/2017/12/27/business/the-robots-are-coming-and-sweden-is-fine.html](https://www.nytimes.com/2017/12/27/business/the-robots-are-coming-and-sweden-is-fine.html)
 

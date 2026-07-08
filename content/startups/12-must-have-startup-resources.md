@@ -3,6 +3,8 @@ title: "Top 12 resources for early-stage startup founders"
 date: 2020-01-01
 description: "A list of resources for early stage founders"
 summary: "A list of resources for early stage founders"
+categories:
+  - "Ideas and Adventures"
 ---
 
 Top 12 resources for early-stage startup founders:

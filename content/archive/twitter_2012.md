@@ -2,6 +2,10 @@
 title: "Twitter archive, 2012"
 description: "Captured archive of @robincarswell's twitter history, archived for posterity"
 date: 2012-12-31
+categories:
+  - "Archive"
+aliases:
+  - "/twitter/twitter_2012/"
 ---
 Replying to [@nicholashk](https://twitter.com/nicholashk/status/153570059195916288)
 
