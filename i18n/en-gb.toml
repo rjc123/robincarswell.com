@@ -1,0 +1,7 @@
+# Site-level i18n for en-gb (defaultContentLanguage).
+# The Anatole theme ships translations in i18n/en.toml, but Hugo does not
+# resolve those for the "en-gb" language, so theme i18n keys return empty.
+# Provide the keys the site actually uses here. Currently: the series partial
+# heading, wired via layouts/_default/single.html for the AI Sabbatical series.
+[series_posts]
+other = "Posts in this series"
