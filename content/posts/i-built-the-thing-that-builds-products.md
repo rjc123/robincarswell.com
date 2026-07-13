@@ -6,6 +6,7 @@ date: 2026-07-12T15:38:00Z
 draft: true
 series:
   - "AI Sabbatical"
+series_order: 3
 categories:
   - "Working Life"
 ---

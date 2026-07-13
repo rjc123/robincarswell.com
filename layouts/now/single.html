@@ -7,7 +7,11 @@
       <p class="now__intro">Right now I'm on a sabbatical, and I'm spending it going deep on applied AI — not the hype, the practice. What it's actually like to build with it, live with it, and point it at your own life instead of a pitch deck. I'm writing as I go — the log's below.</p>
 
       {{- $sabbatical := where .Site.RegularPages "Params.series" "intersect" (slice "AI Sabbatical") -}}
-      {{- $sabbatical = sort $sabbatical "Date" "desc" -}}
+      {{- if eq (.Site.Params.seriesSort | default "narrative") "recency" -}}
+        {{- $sabbatical = sort $sabbatical "Date" "desc" -}}
+      {{- else -}}
+        {{- $sabbatical = sort $sabbatical "Params.series_order" -}}
+      {{- end -}}
 
       <section class="now__block">
         <h2>The NoCode CTO</h2>

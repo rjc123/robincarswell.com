@@ -1,0 +1,18 @@
+{{- /* Site-level override of the theme's series.html.
+     Adds a sort flag: Site.Params.seriesSort =
+       "narrative" (default) -> fixed reading order via each post's series_order
+       "recency"             -> newest first (Date desc)
+     series_order is decoupled from Date so it survives retrospective re-dating. */ -}}
+{{- $related := where .Site.RegularPages "Params.series" "intersect" .Params.series -}}
+{{- if eq (.Site.Params.seriesSort | default "narrative") "recency" -}}
+  {{- $related = sort $related "Date" "desc" -}}
+{{- else -}}
+  {{- $related = sort $related "Params.series_order" -}}
+{{- end -}}
+
+<h3>{{ i18n "series_posts" }}</h3>
+<ul>
+  {{ range $related }}
+    <li><a href="{{ .RelPermalink }}">{{ title .Title }}</a></li>
+  {{ end }}
+</ul>
