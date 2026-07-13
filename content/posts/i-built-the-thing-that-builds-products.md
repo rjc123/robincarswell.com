@@ -9,6 +9,7 @@ series:
 series_order: 3
 categories:
   - "Working Life"
+  - "Ideas and Adventures"
 ---
 
 Give me a capable AI and a clear afternoon and I turn into a machine for starting things. Over these six months I started something new most fortnights: a landing page here, a working prototype there, a whole product sketched, costed, and half-built before the week was out.

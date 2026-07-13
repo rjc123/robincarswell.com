@@ -9,6 +9,7 @@ series:
 series_order: 7
 categories:
   - "Working Life"
+  - "Ideas and Adventures"
 ---
 
 The prototypes get all the attention. They're the fun bit, and they make the better story. But if you actually want to know what six months bought me, don't look at the half-built apps. Look at the dull, unglamorous stuff I now use every single day and would genuinely struggle to work without.

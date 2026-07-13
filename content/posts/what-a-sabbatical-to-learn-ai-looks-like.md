@@ -9,6 +9,7 @@ series:
 series_order: 1
 categories:
   - "Working Life"
+  - "Ideas and Adventures"
 ---
 
 I took six months out to learn AI properly. Not to read about it, but to use it every day on real work until I actually understood what it could and couldn't do. Apply it across my life and, above all, across my businesses. See what held up. That was the plan, written down on day one.
