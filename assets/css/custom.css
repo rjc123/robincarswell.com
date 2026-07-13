@@ -94,3 +94,38 @@
 .theme--dark blockquote {
   border-left-color: #5e7a8a;
 }
+
+/* ── SIDEBAR NAV (Now / About) ───────────────────────────────────────────────
+   Promoted above the social icons with a more prominent font. */
+.sidebar__nav {
+  text-align: center;
+  margin: 4px 0 16px;
+}
+
+.sidebar__nav-link {
+  display: inline-block;
+  font-size: 1.9rem;
+  font-weight: 600;
+  margin: 0 12px;
+}
+
+/* ── NOW PAGE — demote the last-updated line ─────────────────────────────────
+   Smaller, italic, muted, tucked under the heading. */
+.now__updated {
+  font-size: 0.85rem;
+  font-style: italic;
+  opacity: 0.65;
+  margin-top: -0.4em;
+  margin-bottom: 1.8em;
+}
+
+/* ── ABOUT PAGE — de-emphasised aside (the "getting my attention" note) ───────*/
+.about__aside {
+  font-size: 0.82rem;
+  opacity: 0.72;
+  margin-top: 2em;
+}
+
+.about__aside p {
+  margin-bottom: 0;
+}
