@@ -2,8 +2,8 @@
 title: "A duty to remember, a right to forget"
 description: "A government is obliged never to forget, but chooses carefully what to make public. AI breaks that balance, and the human right to forget is the casualty."
 summary: "I recently caught my own records lying to me, and it left me with a question I couldn't put down: how much should any of us be in the business of never forgetting? A government has a duty to remember and a separate discipline about what it makes public. A person is not a government, and needs the right to forget. AI is quietly imposing the first on people who were only ever owed the second."
-date: 2026-07-16T14:33:00Z
-draft: true
+date: 2026-07-13T03:45:00Z
+draft: false
 categories:
   - "Public Interest"
 ---

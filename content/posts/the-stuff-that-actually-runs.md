@@ -2,8 +2,8 @@
 title: "The stuff that actually runs"
 description: "Forget the half-built prototypes. If you want to know what six months bought me, look at the boring systems I now use every single day."
 summary: "The prototypes get the attention, but they're not what six months actually bought me. Look instead at the boring stuff I now use every day and would genuinely struggle without: a way to run client work to a known standard, a strategy loop that actually holds, a task system with a small crew of agents on top, and the pipeline that made this very post. Not a drawer of clever tools. A working operating system for my working life."
-date: 2026-07-17T14:48:00Z
-draft: true
+date: 2026-07-13T04:00:00Z
+draft: false
 series:
   - "AI Sabbatical"
 series_order: 7

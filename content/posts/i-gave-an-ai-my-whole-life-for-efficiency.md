@@ -2,8 +2,8 @@
 title: "I gave an AI my whole life for efficiency. I never negotiated the terms."
 description: "To make the assistant useful I handed a commercial model, in another country, the most complete picture of me that has ever existed. Then I noticed I'd built a vault to keep my clients' data away from exactly that."
 summary: "To make my AI assistant genuinely useful, I fed it a joined-up picture of my whole life over six months. A few months in I noticed the thing I'd been carefully avoiding for my clients: I'd built them a vault to keep their data off exactly this kind of system, and handed over my own inner life for a productivity boost. This is about the deal I signed without reading, and what I'm doing about it."
-date: 2026-07-14T13:41:00Z
-draft: true
+date: 2026-07-13T05:00:00Z
+draft: false
 series:
   - "AI Sabbatical"
 series_order: 5

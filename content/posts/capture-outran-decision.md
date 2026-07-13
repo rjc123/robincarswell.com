@@ -2,8 +2,8 @@
 title: "Capture outran decision, and everything got rebuilt"
 description: "The least flattering post in this series, and the most useful. Two patterns the data wouldn't let me pretend away."
 summary: "This is the least flattering post in the series, and probably the most useful. Two patterns showed up in six months of my own data that I couldn't argue with: I captured ideas far faster than I decided what to do with them, and I rebuilt almost everything I built. Neither is quite the failure it looks like, but both taught me where the real bottleneck actually sits."
-date: 2026-07-13T14:05:00Z
-draft: true
+date: 2026-07-13T05:30:00Z
+draft: false
 series:
   - "AI Sabbatical"
 series_order: 4

@@ -2,8 +2,8 @@
 title: "What a sabbatical to learn AI actually looks like"
 description: "Six months out to apply AI to my life and my businesses. The first quarterly report on where that actually went."
 summary: "I took six months out to go deep on applied AI, across my life and above all across my businesses. This is the first of my quarterly reports on it. I pulled up my own task history to write it, and found the plan I wrote on day one and the thing I'd actually been doing weren't quite the same project. I set out to apply AI to my work. What I mostly did was build, and I'm not mad about it."
-date: 2026-07-10T13:24:00Z
-draft: true
+date: 2026-07-13T07:00:00Z
+draft: false
 series:
   - "AI Sabbatical"
 series_order: 1

@@ -2,8 +2,8 @@
 title: "I didn't build products. I built the thing that builds products."
 description: "Give me a capable AI and six months and I'll spin up a new prototype most fortnights. The valuable part wasn't any of them."
 summary: "Give me a capable AI and six months and I turn into a machine for starting things — a new prototype or product idea most fortnights, most of them parked within the week. It would be easy to read that as a failure to finish. It isn't. The valuable thing I built over these six months wasn't any single product. It was the capability to build the next one cheaply, and a habit I'm not giving back."
-date: 2026-07-12T15:38:00Z
-draft: true
+date: 2026-07-13T06:00:00Z
+draft: false
 series:
   - "AI Sabbatical"
 series_order: 3

@@ -2,8 +2,8 @@
 title: "The machine that forgot"
 description: "To write this series I went to check what actually happened when. My own records had quietly lied to me, and nobody had touched them in bad faith."
 summary: "To write this series I needed to know what actually happened when, so I went to check my own task history. It told me the project started three weeks later than it did, with the wrong thing, and it was completely confident about it. Nobody had tampered with anything. A routine migration had quietly erased the beginning. This is about how organisational memory really dies, and why the fix is also a little frightening."
-date: 2026-07-15T15:20:00Z
-draft: true
+date: 2026-07-13T04:30:00Z
+draft: false
 series:
   - "AI Sabbatical"
 series_order: 6
