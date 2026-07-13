@@ -12,6 +12,11 @@
     {{- range first 1 . -}}
       <meta property="og:image" content="{{ . | absURL }}" />
     {{- end -}}
+    {{/* Site-default share card is a fixed 1200x630 landscape PNG. */}}
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Robin Carswell — technology, product and business strategy" />
   {{- end -}}
 {{- end -}}
 {{- if .IsPage }}
