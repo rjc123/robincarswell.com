@@ -1,7 +1,7 @@
 ---
 title: If a tree falls in the forest
-description: I draft a lot of what I publish with AI. So does the writing still count, and does anyone have the attention left to find out?
-summary: I write a lot of what I publish with help from AI now, this post included. Which raises an old question in a new form: if the thought is mine but the words are assembled by a machine, does the writing still count?
+description: "I draft a lot of what I publish with AI. So does the writing still count, and does anyone have the attention left to find out?"
+summary: "I write a lot of what I publish with help from AI now, this post included. Which raises an old question in a new form: if the thought is mine but the words are assembled by a machine, does the writing still count?"
 date: 2026-08-03T14:41:00Z
 draft: true
 ---
