@@ -4,6 +4,8 @@ description: The lost art of packaging you keep, and the UK own-brand that shoul
 summary: "My mother kept flour and sugar in gallon Miracle Whip jars for twenty years, in a house that never once bought Miracle Whip. That is what reusable packaging does: it outlives the purchase and advertises for free. So why does UK retail sell everything in flimsy single-use packets at silly prices, and who is going to standardise the jar?"
 date: 2026-07-28
 draft: false
+categories:
+  - "Ideas and Adventures"
 ---
 
 My mother kept the flour and the sugar in Miracle Whip jars. Gallon jars, proper thick glass, heavy metal lids, the sort of thing you could drop and worry about the floor. They came from the early seventies and they lasted until the lids finally rusted through and you couldn't buy replacements. She threw them out when we moved in the nineties. 
