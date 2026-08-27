@@ -3,7 +3,7 @@ title: "Forget the model, look at the harness"
 description: "Every AI pitch sells you the model. The model is the easy ten percent — the harness around it is where the actual work, and the actual advantage, sit."
 summary: "Every day, without fail, something turns up in my inbox offering to solve my inbound pipeline problem. Same email, different sender, a hundred versions of the same idea: an AI that will take an entire function off my hands, starting Monday. Not one of the people sending them has the faintest idea what my pipeline actually looks like, and that's the tell — they are all selling the model as if the model were the whole system. It isn't. The model is the easy part. The harness around it — the context, the memory, the rules about what it is never allowed to decide on its own — is the actual work, and it's where the real advantage sits."
 date: 2026-08-27T14:23:00+01:00
-draft: true
+draft: false
 categories:
   - "Working Life"
 ---
