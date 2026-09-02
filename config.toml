@@ -96,3 +96,20 @@ url = "mailto:hello@robincarswell.com"
     pageRef = '/archive'
     weight = 80
 
+
+# Declared toolchain, kept here so the intended versions live with the site
+# config. CI pins the same in .github/workflows/hugo.yml.
+#
+# IMPORTANT: this block is a DECLARATION, not a control. Verified 2026-09-02 —
+# Hugo builds happily with min = "0.999.0" set here, because [module.hugoVersion]
+# constrains modules a project consumes, not the project's own root config.
+# Do not trust it to stop a mismatched build; `make check-tools` is what
+# actually enforces this. Hugo likewise has no constraint for Dart Sass, whose
+# absence silently degrades the CSS.
+#
+# Background: pa-lq75.
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.162.0"
+    max = "0.162.99"

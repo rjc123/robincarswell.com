@@ -36,13 +36,33 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.162.0
+      # Pinned deliberately. A bare `snap install dart-sass` floats to whatever
+      # snap ships that day, and Hugo does not fail when the transpiler changes
+      # or goes missing — it silently emits different CSS. See pa-lq75.
+      DART_SASS_VERSION: 1.100.0
     steps:
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
-        run: sudo snap install dart-sass
+        run: |
+          wget -O ${{ runner.temp }}/dart-sass.tar.gz https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz \
+          && tar -xf ${{ runner.temp }}/dart-sass.tar.gz -C ${{ runner.temp }} \
+          && echo "${{ runner.temp }}/dart-sass" >> "$GITHUB_PATH"
+      # Hugo falls back to LibSass and exits 0 when Dart Sass is unreachable,
+      # producing a subtly wrong stylesheet. `hugo env` prints a
+      # dart-sass/implementation line only when it is genuinely reachable, so
+      # this is the one check that distinguishes a good build from a silent
+      # downgrade. Fail here rather than deploying wrong CSS.
+      - name: Verify toolchain
+        run: |
+          hugo env
+          hugo env | grep -q "dart-sass/implementation=\"${DART_SASS_VERSION}\"" || {
+            echo "ERROR: Hugo cannot reach Dart Sass ${DART_SASS_VERSION}."
+            echo "It would fall back to LibSass and emit different CSS with exit 0."
+            exit 1
+          }
       - name: Checkout
         uses: actions/checkout@v4
         with:
