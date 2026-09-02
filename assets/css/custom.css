@@ -63,34 +63,14 @@
   color: #4a6fa0;
 }
 
-/* Post headings: ease line-height (theme default 1.0 clips wrapped titles). */
-.post__content h1,
-.post__content h2,
-.post__content h3 {
-  line-height: 1.3;
-}
-
-/* Paragraph spacing — browser default gives only ~16px between paragraphs.
-   Increase for better breathing room in article bodies. */
-.post__content p {
-  margin-bottom: 1.6em;
-}
-
-/* Section headings inside article bodies — more space above for clear breaks. */
-.post__content h2,
-.post__content h3 {
-  margin-top: 2em;
-  margin-bottom: 0.5em;
-}
-
 /* Post card list — increase gap between list items (theme default collapses to 30px). */
 .post {
   margin-top: 42px;
   margin-bottom: 42px;
 }
 
-/* Dark mode blockquote: left border barely visible at #464646 on #152028 (1.50:1).
-   #5e7a8a = 3.34:1 — meets 3:1 UI-element threshold. */
+/* Dark mode blockquote: left border barely visible at #464646 on #152028 (1.75:1).
+   #5e7a8a = 3.65:1 — meets 3:1 UI-element threshold. */
 .theme--dark blockquote {
   border-left-color: #5e7a8a;
 }
@@ -128,4 +108,133 @@
 
 .about__aside p {
   margin-bottom: 0;
+}
+
+/* ── ARTICLE TYPOGRAPHY ──────────────────────────────────────────────────────
+   Measured against the production build (1rem = 10px via .html 62.5%;
+   body = 1.6rem = 16px).
+
+   The theme sets p { line-height: 1.9em } globally (_hugo.scss:34), so lines
+   inside a paragraph sat 30.4px apart while the gap BETWEEN paragraphs was
+   only 25.6px. The visual hierarchy was inverted — the eye could not find a
+   paragraph boundary, which reads as "cramped sections" even though the text
+   is, if anything, too airy.
+
+     line-height 1.65  = 26.4px within a paragraph
+     margin-bottom 2em = 32.0px between paragraphs   (1.21x the line gap)
+
+   Unitless line-height on purpose: the theme's `1.9em` is inherited by
+   descendants as a computed 30.4px rather than as a ratio, so smaller nested
+   text inherits leading sized for 16px type.
+   ─────────────────────────────────────────────────────────────────────────*/
+.post__content p {
+  line-height: 1.65;
+  margin-bottom: 2em;
+}
+
+.post__content ul,
+.post__content ol {
+  line-height: 1.65;
+  margin-bottom: 2em;
+}
+
+.post__content li + li {
+  margin-top: 0.6em;
+}
+
+.post__content blockquote {
+  line-height: 1.65;
+  margin: 2em 0;
+}
+
+/* ── HEADINGS ────────────────────────────────────────────────────────────────
+   Theme gives h1-h3 line-height:1 and letter-spacing:1px, and styles nothing
+   below h3. Content uses h4 (3 occurrences) and h5 (1), which therefore fell
+   through to browser defaults — h5 renders at 0.83em, i.e. SMALLER than body
+   text, so a deeper heading looked less important than the prose under it.
+   ─────────────────────────────────────────────────────────────────────────*/
+.post__content h1,
+.post__content h2,
+.post__content h3,
+.post__content h4,
+.post__content h5,
+.post__content h6 {
+  line-height: 1.25;
+  letter-spacing: normal;
+  margin-bottom: 0.6em;
+}
+
+.post__content h1 {
+  letter-spacing: -0.4px;
+}
+
+.post__content h2 {
+  margin-top: 1.8em;
+}
+
+.post__content h3 {
+  margin-top: 1.7em;
+}
+
+/* h4-h6: never smaller than body text. Differentiated by weight, not size. */
+.post__content h4 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-top: 1.6em;
+}
+
+.post__content h5 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-top: 1.5em;
+}
+
+.post__content h6 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-top: 1.5em;
+  opacity: 0.8;
+}
+
+/* ── DARK MODE COLOURING ─────────────────────────────────────────────────────
+   Two separate faults, both measured against the theme's dark ground #152028.
+
+   1. BODY TEXT WAS TOO BRIGHT, not too dim. #eeeeee on #152028 is 14.26:1.
+      Very high contrast on a near-black ground causes halation — light type
+      bleeds visually into the dark field and blurs at the edges, which is the
+      usual cause of "dark mode is hard to read". #d5dbe1 = 11.86:1: softer,
+      still far above the 7:1 AAA threshold for body text.
+
+   2. DIVIDERS WERE INVISIBLE. The theme's border token is #464646 in dark
+      mode = 1.75:1, well under the 3:1 minimum for a meaningful UI element.
+      These are the rules separating posts in the list, under the header, and
+      beside the sidebar — structure the reader could not see. #586b7d =
+      3.01:1: visible as structure without competing with the text.
+   ─────────────────────────────────────────────────────────────────────────*/
+.theme--dark .body,
+.theme--dark a,
+.theme--dark blockquote,
+.theme--dark .post__content h1 a,
+.theme--dark .post__content h2 a,
+.theme--dark .post__content h3 a {
+  color: #d5dbe1;
+}
+
+.theme--dark .post__footer,
+.theme--dark .header,
+.theme--dark .sidebar,
+.theme--dark .post__content table,
+.theme--dark .post__content th,
+.theme--dark .post__content td {
+  border-color: #586b7d;
+}
+
+/* OPTIONAL — outside the original brief, safe to delete.
+   Muted text (archive dates, tags) uses the same #9f9f9f in both modes. That
+   is 6.25:1 on the dark ground but only 2.65:1 on white — a WCAG AA failure
+   in light mode, where most of these are dates the reader is trying to scan.
+   #6f6f6f = 5.02:1. Dark mode already passes and is left alone. */
+.theme--light .archive__list-date,
+.theme--light .tag {
+  color: #6f6f6f;
 }
