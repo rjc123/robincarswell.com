@@ -3,7 +3,7 @@ title: "Decision debt: when capture is free, judgement is the bottleneck"
 description: "Cheap tools didn't make it easier to get things done. They moved the real cost onto the one thing nothing has made cheaper: deciding what's actually worth doing."
 summary: "I had more than 300 things sitting in my task list under a single heading, decide, and I'd never ruled on one of them. Writing an idea down used to cost enough effort that you only bothered if it mattered; now it costs nothing, and a heading called decide turned out to be a waiting room with no door. The debt was never the things I hadn't done. It was the things with no action path at all — never ruled on, outside any system, running in my head instead of in a queue."
 date: 2026-09-02T15:41:00+01:00
-draft: true
+draft: false
 categories:
   - "Working Life"
 ---
