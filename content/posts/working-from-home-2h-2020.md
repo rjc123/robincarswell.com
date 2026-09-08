@@ -2,7 +2,7 @@
 title: Working from home, 2H 2020
 description: We built a £2m business during lockdown. Here's what managing people actually looked like.
 summary: In the second half of 2020, I helped build a business that turned over £2 million. Everyone involved was doing it from a bedroom or a kitchen table while their lives were being genuinely disrupted. Working from home stopped being a productivity question and became a human one.
-date: 2026-03-21T00:00:00Z
+date: 2020-12-31T00:00:00Z
 draft: true
 ---
 
@@ -31,7 +31,3 @@ I don't think there's a framework for that. I think it's just what managing peop
 The pandemic version of this was extreme. But the underlying question isn't going away. People's lives are visible in a way they weren't when everyone commuted to the same building. You will see people's circumstances — their homes, their kids, their stress — whether you've planned for it or not.
 
 That's not a problem to manage. It's a fact about what working with people actually is. The managers who handled 2020 well were the ones who already understood that work is a human activity, not a productivity equation.
-
----
-
-*Things to verify before publishing: the £2m figure — confirm you're comfortable with this level of specificity publicly. No individual people are named so no clearance needed.*

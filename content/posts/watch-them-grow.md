@@ -2,7 +2,7 @@
 title: Watch them grow
 description: Five things a 48-hour startup weekend taught me that a year of planning meetings never could.
 summary: I spent 48 hours in a room with 200 people trying to build a company from scratch. We didn't win. The team — Victoria Cullen, James Grafton, Nathan Humphreys, Tamsin Shaw — built watchthemgrow.net anyway. Five things I took away that I still think about.
-date: 2026-03-21T00:00:00Z
+date: 2012-02-29T00:00:00Z
 draft: true
 ---
 
