@@ -50,6 +50,8 @@ And the itch? Properly scratched. I got to be a builder again for six months, at
 
 So no, I didn't fail to use AI. I found out what using it properly actually costs, and I got a lot of building done while I paid.
 
+There's a longer version of that argument, on its own, if you want it.
+
 ### Why quarterly reports?
 
 Because I'm treating this like a proper piece of work, with a proper end. I'm aiming to wrap it up and return to full engagement in autumn 2026, if the world decides to settle down. When I do, I intend to walk back in with a stack of skills I didn't have six months ago and the receipts to prove they're real, not LinkedIn-real.

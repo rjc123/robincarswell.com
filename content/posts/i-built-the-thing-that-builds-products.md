@@ -55,3 +55,5 @@ One thing that lasts, and it isn't a product. It's a capability.
 I walked in able to advise people on building software and products. I'm walking out able to *build* them myself: quickly, on my own, with the means of building already sitting on my desk. The experiments were the tuition. The engine is what I keep, and it doesn't reset when the sabbatical ends.
 
 I set out to make things. What I actually made was a machine for making things, and a habit I have no intention of giving back.
+
+There's a longer version of that argument, on its own, if you want it.

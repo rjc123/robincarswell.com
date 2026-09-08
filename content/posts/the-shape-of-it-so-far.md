@@ -23,6 +23,8 @@ That conversation might be the single highest-leverage thing I did in the whole 
 
 So here's the first lesson, and I keep relearning it: the best opening move with these tools isn't automation, it's thinking. Use the thing to get clear before you use it to get busy. Everything downstream is cheaper when you do.
 
+There's a longer version of that argument, on its own, if you want it.
+
 ### Then two months of everything, all at once
 
 March and April were relentless, in the good way. I built the toolkit first, then used it to stand up one of my businesses end to end: platform, brand, first piece of writing live inside a fortnight. One week I closed just shy of 200 separate tasks. The peak week went past 200. In a single pass through my CRM I deleted 4,223 junk company records that had been rotting in there for years.

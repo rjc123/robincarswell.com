@@ -48,3 +48,5 @@ Three things, and I'm holding myself to them for the back half:
 - **Treat a rebuild as a question, not just a cost.** When I'm rewriting something, ask whether I'm learning the right shape or paying off a decision I dodged. The first is fine. The second is the one to catch.
 
 The backlog was never a to-do list. It's a monument to the decisions I kept avoiding. The building, it turns out, was the easy part all along. Deciding was the work.
+
+There's a longer version of that argument, on its own, if you want it.

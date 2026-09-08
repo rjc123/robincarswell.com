@@ -45,3 +45,5 @@ Not retreating. The efficiency is real and I'm not handing it back to feel virtu
 Most of what I do is low-sensitivity and can stay exactly where it is. The crown jewels move behind the same kind of local vault I already run for clients. The joined-up picture of me, the money, the health, the family: only an abstracted slice of any of it ever reaches the cloud. The point isn't fear. It's doing on purpose what I'd drifted into by accident.
 
 The efficiency was real. I paid for it in legibility to a third party I never sat across a table from. That's a trade worth making, once, with your eyes open, and only on purpose.
+
+There's a bigger question sitting underneath my own habits, though. We only ever consent to our data one fact at a time, while the actual value and the actual danger live in what a system can join once it's holding a hundred of them. That's too big a question for a post about my own vault, so I've taken it up separately.
