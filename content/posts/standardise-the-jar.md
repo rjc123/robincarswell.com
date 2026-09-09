@@ -28,11 +28,15 @@ Everything over here comes in tiny packets at eye-watering prices. You cannot bu
 
 ### The opportunity
 
+Make your brand a British tent-pole. Be the jar the rest of the cupboard gets arranged around, and the standard everybody else ends up copying.
+
 Two ways to build it.
 
 One: a UK store brand standardises its packaging. One jar system across the whole range, jam and pickles and rice all in the same glass, lids interchangeable, everything stacking in tidy rows. No replacement-lid business to run, because the replacement lid is a fresh jar of jam. Make the thread Mason-compatible while you're at it and you've bought a decade of goodwill for the price of a tooling change.
 
 Two: a challenger brand does it properly. Better glass, built to be reused for a lifetime, logo emblazoned in the side so it stares out of ten thousand pantries for the next thirty years. Bank on the fact that a big store brand will eventually copy the format. Theirs will be plain. Yours will have your name in the glass, permanently.
+
+Of the British players, I think Marks and Spencer could do this most effectively. Own-brand across the whole range, and a customer who already buys the badge as much as what's inside it. There are others who could. M&S is the one I'd bet on.
 
 And once the jars are already in the cupboard, the refill stops needing to be a jar at all. Post me a big decantable packet of the stuff, product depending, and I tip it into the glass I already own. The durable bit lives in my kitchen for a decade; the thing that travels is just contents in the cheapest sensible wrapper.
 
