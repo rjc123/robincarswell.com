@@ -10,6 +10,8 @@ categories:
 
 *Thanks Chat GPT! Making this blog post was super simple.*
 
+*Update, September 2026: two of these links have died since I wrote this — COSO's enterprise risk management page and the Stanford d.school venture design resource. I've unlinked both and left the names, because the frameworks still exist even if the pages do not. Everything else here was still reachable when I checked.*
+
 # Effective Risk Roadmapping Frameworks for Startups
 
 Launching a startup involves navigating a landscape filled with uncertainties and risks. To increase the chances of success, startups can benefit from adopting effective risk roadmapping frameworks. These frameworks provide a structured approach to identify, assess, and manage risks, helping startups steer through challenges and capitalize on opportunities.
@@ -20,7 +22,7 @@ The [LEAN Startup methodology](https://www.leanstartup.co/), pioneered by Eric R
 
 ## 2. Risk Management Frameworks
 
-Established risk management frameworks, such as [ISO 31000](https://www.iso.org/iso-31000-risk-management.html) and the [COSO Enterprise Risk Management framework](https://www.coso.org/Pages/erm.aspx), provide startups with a systematic way to identify, assess, and manage risks. These frameworks can be adapted to the unique needs of a startup, offering a comprehensive approach to risk management.
+Established risk management frameworks, such as [ISO 31000](https://www.iso.org/iso-31000-risk-management.html) and the COSO Enterprise Risk Management framework, provide startups with a systematic way to identify, assess, and manage risks. These frameworks can be adapted to the unique needs of a startup, offering a comprehensive approach to risk management.
 
 ## 3. Business Model Canvas
 
@@ -36,7 +38,7 @@ Agile methodologies, including [Scrum](https://www.scrum.org/), provide startups
 
 ## 6. Venture Design
 
-Venture design methodologies, such as the one developed by the [Stanford d.school](https://dschool.stanford.edu/resources/venture-design), focus on designing and testing various aspects of a startup. This approach helps startups iteratively refine their business concept, allowing them to identify and mitigate risks early in the process.
+Venture design methodologies, such as the one developed by the Stanford d.school, focus on designing and testing various aspects of a startup. This approach helps startups iteratively refine their business concept, allowing them to identify and mitigate risks early in the process.
 
 In the dynamic environment of startups, flexibility and adaptability are key. While these frameworks provide a solid foundation for risk roadmapping, it's essential for startups to tailor them to their specific needs and regularly revisit and adjust their strategies based on real-time feedback and changing circumstances.
 
@@ -49,7 +51,7 @@ By integrating these frameworks into their planning processes, startups can navi
 
 2. **Risk Management Frameworks:**
    - [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
-   - [COSO Enterprise Risk Management](https://www.coso.org/Pages/erm.aspx)
+   - COSO Enterprise Risk Management (link dead as of September 2026)
 
 3. **Business Model Canvas:**
    - [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas)
@@ -62,4 +64,4 @@ By integrating these frameworks into their planning processes, startups can navi
    - [Scrum.org](https://www.scrum.org/)
 
 6. **Venture Design:**
-   - [Stanford d.school - Design Thinking](https://dschool.stanford.edu/resources/venture-design)
+   - Stanford d.school - Design Thinking (link dead as of September 2026)
