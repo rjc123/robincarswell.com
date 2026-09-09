@@ -66,6 +66,30 @@ minifies HTML — collapsing whitespace between inline elements, so spacing
 differs slightly from a plain local preview. `make preview` runs the production
 path instead, which is what to check before pushing anything layout-sensitive.
 
+## The two `.htm` files in `static/`
+
+`static/misterSTARTpants.htm` and `static/start.htm` are **personal browser start
+pages** — hand-built link grids, not Hugo content. They are served at the site
+root because `static/` is copied verbatim.
+
+**They are deliberately public.** The published post
+`content/posts/mister-start-pants.md` links to both: `/misterSTARTpants.htm` as
+"my own Canadian version" and `/start.htm` as the remade one Robin actually uses.
+Publishing them is the point of that post.
+
+**They stay static. Do not convert them to Hugo pages.** Hugo's model suits
+published articles; these are bookmark pages edited directly, so conversion would
+add front matter and a layout for no gain and make routine editing harder. It
+would also move the URLs and break two links in a live post.
+
+`start.htm` is the live one (confirmed by Robin, 2026-09-09). `misterSTARTpants.htm`
+is its predecessor — functionally superseded, but **not retirable**, because the
+post presents the two as distinct artefacts and dropping it would break a live link.
+
+**Neither URL may be removed or moved without an `aliases:` redirect**, for that
+same reason. Reviewed 2026-09-09 (`pa-ay13.1.6`): no credentials, no private or
+LAN hostnames, nothing in either page that should not be public.
+
 ----------
 
 (c) Robin Carswell 2021
