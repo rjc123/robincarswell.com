@@ -3,6 +3,12 @@ title: "Top 12 resources for early-stage startup founders"
 date: 2020-01-01
 description: "A list of resources for early stage founders"
 summary: "A list of resources for early stage founders"
+aliases:
+  - "/startups/12-must-have-startup-resources/"
+  # /startups/ was an auto-generated section index with no authored content. It has no
+  # single natural destination now the section is gone, so it lands on the more substantive
+  # of the two pages rather than 404ing. Judgement call, recorded 2026-09-09 (pa-ay13.5.29.1).
+  - "/startups/"
 categories:
   - "Ideas and Adventures"
 ---
