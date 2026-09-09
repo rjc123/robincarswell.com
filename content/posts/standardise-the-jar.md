@@ -1,5 +1,5 @@
 ---
-title: Someone should standardise the jar
+title: "Twenty years of free advertising for a product we never bought"
 description: The lost art of packaging you keep, and the UK own-brand that should bring it back.
 summary: "My mother kept flour and sugar in gallon Miracle Whip jars for twenty years, in a house that never once bought Miracle Whip. That is what reusable packaging does: it outlives the purchase and advertises for free. So why does UK retail sell everything in flimsy single-use packets at silly prices, and who is going to standardise the jar?"
 date: 2026-07-28
