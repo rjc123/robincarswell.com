@@ -1,5 +1,7 @@
 ---
 title: "Risk Roadmapping 101"
+description: "Six risk frameworks a startup can actually use — written with ChatGPT, which was the easy part."
+summary: "Six frameworks for identifying and managing startup risk: the Lean Startup method, ISO 31000 and COSO, the Business Model Canvas, SWOT, Agile and Scrum, and Stanford's venture design. None is a complete answer on its own, and all of them need tailoring to the specific startup rather than adopting wholesale. Written with ChatGPT, which made putting it together super simple."
 date: 2023-12-06T15:37:00+01:00
 categories:
   - "Working Life"

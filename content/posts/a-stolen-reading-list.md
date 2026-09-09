@@ -1,5 +1,7 @@
 ---
 title: "A Stolen Reading List"
+description: "Forty-two books for startup founders, lifted wholesale from someone I respect on the socials."
+summary: "I stole a 42-book reading list for startup founders from someone I respect on the internet, and parked it here so I would not lose it. Fundamentals and strategy, leadership, growth, business models, founder stories, habits, goal setting — and Sun Tzu, obviously. Thanks Chris."
 date: 2024-07-26T14:50:00+01:00
 aliases:
 - readinglist.md

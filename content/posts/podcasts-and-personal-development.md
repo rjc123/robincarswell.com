@@ -1,5 +1,7 @@
 ---
 title: "Podcasts and Personal Development"
+description: "The podcasts I use for personal development in tech and startups, parked here before they vanish into my inbox."
+summary: "A list of the podcasts and resources I use for personal development in tech and startups — leadership and management, product, startups, engineering, and a random pile that runs from 99% Invisible to No Such Thing as a Fish. Posted here mainly so it stops getting lost in the giant email pile."
 date: 2022-01-01T13:00:00+01:00
 categories:
   - "Working Life"

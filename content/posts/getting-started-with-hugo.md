@@ -1,5 +1,7 @@
 ---
 title: "Getting started with Hugo"
+description: "How I replaced a long-neglected blog with Hugo in an afternoon, written mostly for Future Robin."
+summary: "I moved my long-neglected personal blog onto Hugo, and it took a few hours rather than the weekend I had braced for: quickstart, a theme, a GitHub repo, Pages hosting, and a build action documented a level above my understanding. The genuinely hard part was never the tooling. It was porting the old content, which is exactly where I stalled."
 date: 2021-05-25T22:00:00+01:00
 categories:
   - "Life, Fun and Art"

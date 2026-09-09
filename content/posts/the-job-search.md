@@ -1,6 +1,8 @@
 
 ---
 title: "Hiring in the Modern World, Job Hunting in the Modern World or How I Stopped Worrying and Learned to Love the Bomb"
+description: "Job hunting is awful and companies cannot find talent. Both are true, and companies cause both."
+summary: "Every day my feed carries someone saying job hunting is an awful experience, and someone else saying they cannot find good talent. Both are right, and the talent market has been broken for decades because nobody fixes their own part of it. Six problems companies make for themselves — running lean and hiring reactively, judging candidates against a fiction, chasing eyeballs, letting applicant tracking systems harden bad practice, shifting the work onto the candidate, and using all of it to avoid the hard human conversations. Then four things that would actually help."
 date: 2024-07-29T14:00:00+01:00
 categories:
   - "Working Life"

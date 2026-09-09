@@ -1,5 +1,7 @@
 ---
 title: "All the Reasons You're Unemployed"
+description: "A Medium post about why you are still single, rewritten for why you are still unemployed. The parallel holds uncomfortably well."
+summary: "A post about why you are single despite being a hottie landed in my inbox while I was job hunting, and the parallel was too strong to leave alone. Companies will not commit, your self-assurance intimidates them, you are focusing on yourself, and you will not settle for less than you deserve. The job search is a psychological grind in precisely the way the dating market is. Thank you for coming to my TED talk."
 date: 2021-10-04T13:00:00+01:00
 categories:
   - "Working Life"

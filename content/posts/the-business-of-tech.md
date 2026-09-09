@@ -1,5 +1,7 @@
 ---
 title: "Hardware? Hard luck."
+description: "My Yamaha lost its internet radio because a supplier changed its business model, and the press release is a masterclass in not quite saying so."
+summary: "I bought a Yamaha receiver with internet radio built in. Then vTuner, the service behind that feature, changed its business model, and the feature died on a long list of devices including mine. Yamaha's press release is a triumph of modern truthiness PR. This is why legacy electronics firms are being eaten by the modern players: the strategy is shipping more boxes rather than shipping fewer sustainably — and the fix here would have been cheap."
 date: 2019-10-04T13:00:00+01:00
 categories:
   - "Public Interest"

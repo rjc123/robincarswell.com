@@ -1,5 +1,7 @@
 ---
 title: "GOV.UK wins Design of the Year!"
+description: "GOV.UK won Design of the Year in 2013, and I had spent the preceding months helping build part of it."
+summary: "For several months I worked on GOV.UK — the Inside Government team, on new product development and content transition — and then it won Design of the Year 2013. The award was not the striking part. The striking part was a government writing its policy on contentious subjects in language an ordinary person could actually read. That practice did not outlast the administration."
 date: 2013-04-29T16:00:00+01:00
 categories:
   - "Working Life"

@@ -1,5 +1,7 @@
 ---
 title: "Star Wars Pricing"
+description: "Han Solo wanted ten thousand up front. Founders can only offer two now and fifteen at Alderaan — which is why agencies rarely fit at the founding stage."
+summary: "Han Solo asks for ten thousand in advance; Obi-Wan offers two now and fifteen on arrival. That exchange is the entire argument between agencies and founders. An agency wants a derisked transaction against a known brief. A founder needs someone to share the risk, and the upside, of reaching a destination that might not survive the journey. It is why most agencies do not make sense at the founding stage."
 date: 2021-09-10T18:00:00+01:00
 categories:
   - "Life, Fun and Art"

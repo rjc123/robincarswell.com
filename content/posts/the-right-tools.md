@@ -1,5 +1,7 @@
 ---
 title: "A Box of Agile"
+description: "The stationery I actually buy for running technology teams, all in one list so I stop rebuying it from memory."
+summary: "A round-up of the stationery I keep buying for professional work: sticky notes, markers, pens, notebooks, wall Post-its, and something to keep it all in. No good technology team gets far without them. There is also a Trello board that turns the whole idea into a very small business, which I did not build, for reasons the business model makes obvious."
 date: 2015-06-09T18:00:00+01:00
 categories:
   - "Working Life"

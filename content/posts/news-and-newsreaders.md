@@ -1,5 +1,7 @@
 ---
 title: "News and Newsreaders"
+description: "I tested five news readers to fix my RSS setup. Four failed on the sign-in screen or the business model. Inoreader won."
+summary: "My niche news reading had turned into unmanageable manual link-wrangling, so I set out to evaluate the apps. Pocket failed at sign-in, Flipboard has locked itself into manual curation, Feedly buries an ordinary user in upsell, and Instapaper is fine for long documents but generic for articles. Inoreader won on curation. The wider point is that this whole category has drifted a long way from filling the hole Google Reader left."
 date: 2023-12-15T14:16:00+01:00
 categories:
   - "Life, Fun and Art"

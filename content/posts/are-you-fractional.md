@@ -2,6 +2,7 @@
 ---
 title: "Fractional? Part-time? Unemployed?"
 description: "Are you fractional? Or are you just out of work?"
+summary: "Someone asked me on a call whether I was really fractional, or just out of work. Fifteen years into working independently, the honest answer is that fractional, interim, consultant and contractor are not mutually exclusive — the question is whether the engagement type matches what the client actually needs. The 100-Year Life is right about longevity and misses what it costs the individual: you cannot be fractional without working full time on your own pipeline."
 date: 2024-09-03T18:18:00+01:00
 categories:
   - "Working Life"

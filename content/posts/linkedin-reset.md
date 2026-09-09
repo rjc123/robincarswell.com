@@ -1,5 +1,7 @@
 ---
 title: "Linkedin Login Hack"
+description: "My LinkedIn was stolen at 7:37am and back by 4:43pm — the hour-by-hour, and the lapsed domain that probably caused it."
+summary: "Someone reset my LinkedIn password from Arizona at 7:37 one morning, changed the email address, and locked out my devices. I had it back by 4:43pm, with help. Here is the timeline, along with the product-flow problems that made recovery harder than it should have been, and the likely root cause: an expired domain of mine that someone re-registered and used as the legacy email on the account. Toxic legacy tech is a personal cleanup problem, not just a corporate one."
 date: 2024-08-19T13:52:00+01:00
 aliases:
 - linkedin-login.md
