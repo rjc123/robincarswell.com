@@ -1,0 +1,94 @@
+{{- /* Site-level taxonomy TERM page template (pa-ay13.5.29.38).
+
+     WHY THIS EXISTS. Site.Params.seriesSort = "narrative" is honoured by the
+     in-post series nav (layouts/partials/series.html) and the Now page, but NOT
+     by the /series/<name>/ term page, which fell through to the theme's
+     _default/list.html and took Hugo's default Date-descending order. A series
+     meant to be read P1 -> P7 was therefore listed P7 -> P1.
+
+     It went unnoticed because the AI Sabbatical posts all shared one date with
+     artificially descending times, which made P1 the "newest" and the page look
+     correct by accident. The 2026-09-13 redate (pa-ay13.5.37.2) replaced those
+     stamps with a real ascending chronology and the accident stopped covering
+     the gap.
+
+     Categories are deliberately NOT changed: newest-first is right for a
+     category listing, and only wrong for a narrative series. The else-branch
+     below reproduces the theme's _default/list.html exactly. */ -}}
+
+{{ define "main" }}
+  {{- $isSeries := eq .Data.Singular "series" -}}
+  {{- $narrative := ne (.Site.Params.seriesSort | default "narrative") "recency" -}}
+
+  <div
+    class="archive {{ with .Site.Params.doNotLoadAnimations }}
+      .
+    {{ else }}
+      animated fadeInDown
+    {{ end }}"
+  >
+    {{ if and $isSeries $narrative }}
+      {{- /* Narrative series: fixed reading order, no year grouping. Grouping a
+           series by year splits a single reading sequence across headings that
+           mean nothing to the reader. */ -}}
+      {{ range sort .Data.Pages "Params.series_order" }}
+        <ul class="archive__list">
+          <li class="archive__list-item">
+            {{ if (eq .Site.Params.disableArchiveTitleStyling true) }}
+              <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+            {{ else }}
+              <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ upper .Title }}</a>
+            {{ end }}
+            <div class="archive__list-date">
+              {{ if isset .Site.Params "listdateformat" }}
+                {{ if .Site.Params.localizedDates }}
+                  {{ time.Format .Site.Params.listDateFormat .Date }}
+                {{ else }}
+                  {{ .Date.Format .Site.Params.listDateFormat }}
+                {{ end }}
+              {{ else }}
+                {{ if .Site.Params.localizedDates }}
+                  {{ time.Format "Jan 2, 2006" .Date }}
+                {{ else }}
+                  {{ .Date.Format "Jan 2, 2006" }}
+                {{ end }}
+              {{ end }}
+            </div>
+          </li>
+        </ul>
+      {{ end }}
+    {{ else }}
+      {{- /* Everything else (categories, and series under seriesSort=recency):
+           unchanged from the theme's _default/list.html. */ -}}
+      {{ range .Data.Pages.GroupByDate "2006" }}
+        <div class="archive__heading">{{ .Key }}</div>
+        {{ range .Pages }}
+          <ul class="archive__list">
+            <li class="archive__list-item">
+              {{ if (eq .Site.Params.disableArchiveTitleStyling true) }}
+                <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+              {{ else }}
+                <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ upper .Title }}</a>
+              {{ end }}
+              <div class="archive__list-date">
+                {{ if isset .Site.Params "listdateformat" }}
+                  {{ if .Site.Params.localizedDates }}
+                    {{ time.Format .Site.Params.listDateFormat .Date }}
+                  {{ else }}
+                    {{ .Date.Format .Site.Params.listDateFormat }}
+                  {{ end }}
+                {{ else }}
+                  {{ if .Site.Params.localizedDates }}
+                    {{ time.Format "Jan 2" .Date }}
+                  {{ else }}
+                    {{ .Date.Format "Jan 2" }}
+                  {{ end }}
+                {{ end }}
+              </div>
+            </li>
+          </ul>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
