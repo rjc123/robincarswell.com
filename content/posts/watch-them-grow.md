@@ -8,7 +8,11 @@ draft: false
 
 I spent 48 hours in a room with about 200 people, all trying to build a company from scratch. Pitch on Friday night. Form teams. Hand something back to the judges on Sunday afternoon.
 
-We didn't win. We did build something — watchthemgrow.net, a platform for tracking and funding children's sports. Four people who hadn't met each other 48 hours earlier, and by Sunday afternoon we had a working product. The site is long gone now; the domain stopped resolving years ago.
+We didn't win. We did build something — watchthemgrow.net, a private social network for family photographs of children. Four people who hadn't met each other 48 hours earlier, and by Sunday afternoon we had a working product.
+
+The itch behind it was personal. My sister had started posting baby pictures to Facebook at volume, and it bothered me — not the pictures, the platform. Every one of those photographs was a child who had not consented to anything, uploaded to a company whose business model was working out what could be inferred from them. I wanted somewhere the grandparents could see the children grow up that wasn't also a data collection exercise.
+
+Looking back at this from years later: Cambridge Analytica was still a year from being founded when we built this, and it took another six before everyone else worked out what the pictures were worth. The site itself is long gone — the domain stopped resolving a long time ago. The problem it was pointed at did not.
 
 Here's what I took away.
 
