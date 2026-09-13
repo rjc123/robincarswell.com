@@ -2,7 +2,7 @@
 title: "The shape of it so far"
 description: "Chart six months of building week by week and it doesn't look like a plan. It looks like a heartbeat."
 summary: "If you chart what I got done week by week across these six months, it doesn't look like a plan. It looks like a heartbeat: two huge spikes near the start, a long sag in the middle, one week completely flat, then a sharper rhythm at the end. I didn't design that shape, but I recognise it now, and it's the honest story of what a solo build actually feels like."
-date: 2026-07-13T06:30:00Z
+date: 2026-03-30T07:45:00Z
 draft: false
 series:
   - "AI Sabbatical"
