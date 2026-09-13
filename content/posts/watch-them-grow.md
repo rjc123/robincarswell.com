@@ -4,6 +4,8 @@ description: Five things a 48-hour startup weekend taught me that a year of plan
 summary: I spent 48 hours in a room with 200 people trying to build a company from scratch. We didn't win. The team built watchthemgrow.net anyway — four people who hadn't met each other two days earlier. Five things I took away that I still think about.
 date: 2012-02-29T00:00:00Z
 draft: false
+categories:
+  - "Ideas and Adventures"
 ---
 
 I spent 48 hours in a room with about 200 people, all trying to build a company from scratch. Pitch on Friday night. Form teams. Hand something back to the judges on Sunday afternoon.

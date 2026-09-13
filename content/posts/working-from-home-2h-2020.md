@@ -4,6 +4,8 @@ description: We built a £2m business during lockdown. Here's what managing peop
 summary: In the second half of 2020, I helped build a business that turned over £2 million. Everyone involved was doing it from a bedroom or a kitchen table while their lives were being genuinely disrupted. Working from home stopped being a productivity question and became a human one.
 date: 2020-12-31T00:00:00Z
 draft: false
+categories:
+  - "Working Life"
 ---
 
 In the second half of 2020, I was part of building a business that turned over £2 million. That sounds like a good number. The context is that everyone involved was working from a bedroom, a spare room, or a kitchen table, in the middle of a pandemic, while their lives were genuinely disrupted.
