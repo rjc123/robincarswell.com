@@ -1,14 +1,14 @@
 ---
 title: Watch them grow
 description: Five things a 48-hour startup weekend taught me that a year of planning meetings never could.
-summary: I spent 48 hours in a room with 200 people trying to build a company from scratch. We didn't win. The team — Victoria Cullen, James Grafton, Nathan Humphreys, Tamsin Shaw — built watchthemgrow.net anyway. Five things I took away that I still think about.
+summary: I spent 48 hours in a room with 200 people trying to build a company from scratch. We didn't win. The team built watchthemgrow.net anyway — four people who hadn't met each other two days earlier. Five things I took away that I still think about.
 date: 2012-02-29T00:00:00Z
-draft: true
+draft: false
 ---
 
 I spent 48 hours in a room with about 200 people, all trying to build a company from scratch. Pitch on Friday night. Form teams. Hand something back to the judges on Sunday afternoon.
 
-We didn't win. We did build something — [watchthemgrow.net](http://watchthemgrow.net), a platform for tracking and funding children's sports. The team: Victoria Cullen, James Grafton, Nathan Humphreys, and Tamsin Shaw. Four people who hadn't met each other 48 hours earlier.
+We didn't win. We did build something — watchthemgrow.net, a platform for tracking and funding children's sports. Four people who hadn't met each other 48 hours earlier, and by Sunday afternoon we had a working product. The site is long gone now; the domain stopped resolving years ago.
 
 Here's what I took away.
 
@@ -38,6 +38,3 @@ By 11pm on Saturday we were out of places to go. The venue had closed. Coffee sh
 
 For a city that runs financial markets around the clock and describes itself as a startup hub, the after-hours infrastructure is surprisingly bad. If someone opens a properly equipped, 24-hour co-working space in Zone 1 or 2, startup weekends will thank you.
 
----
-
-*Things to verify before publishing: watchthemgrow.net — check if the site still exists or should be referenced in past tense. Team members — confirm you're happy to name them publicly.*

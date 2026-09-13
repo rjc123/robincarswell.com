@@ -3,7 +3,7 @@ title: Working from home, 2H 2020
 description: We built a £2m business during lockdown. Here's what managing people actually looked like.
 summary: In the second half of 2020, I helped build a business that turned over £2 million. Everyone involved was doing it from a bedroom or a kitchen table while their lives were being genuinely disrupted. Working from home stopped being a productivity question and became a human one.
 date: 2020-12-31T00:00:00Z
-draft: true
+draft: false
 ---
 
 In the second half of 2020, I was part of building a business that turned over £2 million. That sounds like a good number. The context is that everyone involved was working from a bedroom, a spare room, or a kitchen table, in the middle of a pandemic, while their lives were genuinely disrupted.
@@ -20,7 +20,7 @@ The most useful thing I could do was make it safe to say "I'm struggling." Not b
 
 ### Momentum is also a thing
 
-This is the part that doesn't sit comfortably. We needed to deliver. The business had commitments, clients, a team with salaries. There was no version of 2020 where we all stopped, processed collectively, and resumed in 2021.
+This is the part that doesn't sit comfortably, and I went back and forth on whether to write it down at all. We needed to deliver. The business had commitments, clients, and a team whose salaries depended on it. I couldn't stop the year, and I'm not going to pretend that constraint cost the people inside it nothing.
 
 The tension between "we need to keep moving" and "these people are going through something real" doesn't have a clean resolution. You hold both. You push where you need to push and you leave room where you can. You get it wrong sometimes in both directions — too much pressure on the wrong person at the wrong moment, or not enough urgency when something genuinely needed to happen.
 
