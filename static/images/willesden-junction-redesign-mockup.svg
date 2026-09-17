@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img">
+  <title>Proposed redesign of the Willesden Junction entry screen, grouped by platform and direction</title>
+
+  <rect x="0" y="0" width="960" height="640" fill="#f4f4f2" />
+
+  <!-- Current board -->
+  <g id="current-board">
+    <text x="40" y="40" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1a1a1a">Now — one scrolling list, every platform mixed together</text>
+    <rect x="40" y="60" width="880" height="220" rx="6" fill="#0c0c0c" />
+    <text x="60" y="95" font-family="'Courier New', monospace" font-size="18" fill="#ffcc33">16:32  Plat 2  Clapham Junction        2 min</text>
+    <text x="60" y="125" font-family="'Courier New', monospace" font-size="18" fill="#ffcc33">16:34  Plat 4  Watford Junction         4 min</text>
+    <text x="60" y="155" font-family="'Courier New', monospace" font-size="18" fill="#ffcc33">16:35  Plat 1  Stratford                5 min</text>
+    <text x="60" y="185" font-family="'Courier New', monospace" font-size="18" fill="#ffcc33">16:37  Plat 3  Euston                   7 min</text>
+    <text x="60" y="215" font-family="'Courier New', monospace" font-size="18" fill="#ffcc33">16:40  Plat 2  Clapham Junction        10 min</text>
+    <text x="60" y="245" font-family="'Courier New', monospace" font-size="16" fill="#888888">... continues scrolling ...</text>
+    <text x="60" y="272" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#555555" font-style="italic">To find "your" platform you have to read every line and hold the others in your head.</text>
+  </g>
+
+  <!-- Proposed board -->
+  <g id="proposed-board">
+    <text x="40" y="330" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1a1a1a">Proposed — grouped by platform, direction named first</text>
+
+    <!-- Platform 1 -->
+    <rect x="40" y="350" width="205" height="230" rx="6" fill="#0c0c0c" />
+    <text x="55" y="378" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">PLATFORM 1</text>
+    <text x="55" y="402" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#ffcc33">→ Stratford</text>
+    <text x="55" y="432" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:35   5 min</text>
+    <text x="55" y="458" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:50  20 min</text>
+
+    <!-- Platform 2 -->
+    <rect x="255" y="350" width="205" height="230" rx="6" fill="#0c0c0c" />
+    <text x="270" y="378" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">PLATFORM 2</text>
+    <text x="270" y="402" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#ffcc33">→ Clapham Junction</text>
+    <text x="270" y="432" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:32   2 min</text>
+    <text x="270" y="458" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:40  10 min</text>
+
+    <!-- Platform 3 -->
+    <rect x="470" y="350" width="205" height="230" rx="6" fill="#0c0c0c" />
+    <text x="485" y="378" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">PLATFORM 3</text>
+    <text x="485" y="402" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#ffcc33">→ Euston</text>
+    <text x="485" y="432" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:37   7 min</text>
+    <text x="485" y="458" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:52  22 min</text>
+
+    <!-- Platform 4 -->
+    <rect x="685" y="350" width="235" height="230" rx="6" fill="#0c0c0c" />
+    <text x="700" y="378" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">PLATFORM 4</text>
+    <text x="700" y="402" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#ffcc33">→ Watford Junction</text>
+    <text x="700" y="432" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:34   4 min</text>
+    <text x="700" y="458" font-family="'Courier New', monospace" font-size="16" fill="#ffffff">16:49  19 min</text>
+
+    <text x="40" y="605" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#555555" font-style="italic">Platform and direction sit in the same fixed panel every time — never scrolled off, never mixed with another platform's trains.</text>
+  </g>
+</svg>
