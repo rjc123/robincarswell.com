@@ -3,7 +3,7 @@ title: The best use of AI isn't doing. It's deciding.
 description: "Everyone hands the model their to-do list first. The best use I found for it all year was never on that list."
 summary: "In the first week of my AI sabbatical I had the model open and ready to build, and I closed it again without writing a line of code. I spent that week arguing with it instead about what I actually wanted from the next six months. That conversation, not any of the tens of thousands of lines I went on to write afterwards, turned out to be the best use of AI I made all year. It's also not the one most people reach for first."
 date: 2026-09-22T13:08:00+01:00
-draft: true
+draft: false
 categories:
   - "Working Life"
 ---
