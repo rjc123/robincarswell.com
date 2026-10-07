@@ -3,7 +3,7 @@ title: "Every 'not worth building' your business filed is now quietly wrong"
 description: "The sum that killed those ideas was right at the time. It stopped being right, and almost nobody has gone back to redo it."
 summary: "My CRM had 4,223 duplicate company records rotting in it. Nobody had ever proposed cleaning it up properly, because 'hire someone to manually review four thousand records' was never going to win a budget conversation, so it sat there year after year, correctly filed as not worth the money. One afternoon and a script later it was done, and nobody had to make the case for it at all. The records hadn't got any less duplicated. What changed was the price of fixing them, and that price change is bigger than it sounds."
 date: 2026-10-07T16:12:00+01:00
-draft: true
+draft: false
 categories:
   - "Working Life"
 ---
