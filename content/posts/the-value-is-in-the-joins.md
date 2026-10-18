@@ -1,9 +1,9 @@
 ---
-title: "The value is in the joins."
+title: "Nobody asked you to consent to the joins"
 description: "We give consent one fact at a time. The real exposure, and the real value, live in what gets joined to what once nobody's watching."
 summary: "A friend once asked me what personal data I'd actually mind a company having, and I reached for the obvious answers: a password, a bank balance, a medical record. It took the best part of a year building an AI assistant to work out that the instinct is backwards. No single fact I fed it was ever the risk. The risk was what it could see once everything sat in one place, joined up, and that turns out to be true of a lot more than my own inbox."
-date: 2026-09-08T15:20:00Z
-draft: true
+date: 2026-10-21T15:26:00+01:00
+draft: false
 categories:
   - "Public Interest"
 ---

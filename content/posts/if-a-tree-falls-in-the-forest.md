@@ -4,6 +4,8 @@ description: "I draft a lot of what I publish with AI. So does the writing still
 summary: "I write a lot of what I publish with help from AI now, this post included. Which raises an old question in a new form: if the thought is mine but the words are assembled by a machine, does the writing still count?"
 date: 2026-08-03T14:41:00Z
 draft: false
+categories:
+  - "Life, Fun and Art"
 ---
 
 I write a lot of what I publish with help from AI now. This post included, if I'm honest. Which makes the whole thing a bit of a hall of mirrors, but stay with me.
