@@ -2,7 +2,7 @@
 title: "My AI assistant keeps trying to make me work its way, not mine"
 description: "Every convenience feature it ships is also a nudge back toward its own defaults. Leave it alone and the defaults win."
 summary: "Months after I built my own system for tracking work, the assistant is still pinging me, every session, to use its built-in one instead. I've turned off the settings that are supposed to stop this. They didn't. This is about the four places I keep having this exact fight, why the tool keeps having it with me, and what I actually do about it."
-date: 2026-09-17T22:00:00Z
+date: 2026-10-31T14:35:00+00:00
 draft: true
 categories:
   - "Working Life"

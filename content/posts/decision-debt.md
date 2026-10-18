@@ -1,8 +1,8 @@
 ---
 title: "Decision debt: when capture is free, judgement is the bottleneck"
 description: "Cheap tools didn't make it easier to get things done. They moved the real cost onto the one thing nothing has made cheaper: deciding what's actually worth doing."
-summary: "I had more than 300 things sitting in my task list under a single heading, decide, and I'd never ruled on a single one of them. Writing an idea down used to cost enough effort that you only bothered if it mattered; now it costs nothing, and somewhere along the way I'd swapped a discipline for a reflex. This is about where the bottleneck actually went once capture and building both got cheap, and the one thing that still costs exactly what it always did: someone deciding."
-date: 2026-09-08T13:15:00Z
+summary: "I had more than 300 things sitting in my task list under a single heading, decide, and I'd never ruled on one of them. Writing an idea down used to cost enough effort that you only bothered if it mattered; now it costs nothing, and a heading called decide turned out to be a waiting room with no door. The debt was never the things I hadn't done. It was the things with no action path at all — never ruled on, outside any system, running in my head instead of in a queue."
+date: 2026-09-02T15:41:00+01:00
 draft: true
 categories:
   - "Working Life"
@@ -18,23 +18,27 @@ That friction is gone. A voice note on the way to a meeting, a line typed into a
 
 ### An undecided pile is not a parked one
 
-There's a version of this that costs nothing and is entirely fine. You look at something, weigh it, and choose to wait. That's a decision, and it's honest about what it is.
+There's a version of this that costs nothing and is entirely fine. You look at something, weigh it, and choose to wait. That's a decision, and it's honest about what it is. The thing still has somewhere to go.
 
-Most of mine weren't that. Undecided means you never looked hard enough to choose. Every item I'd never ruled on was a small debt against a future version of me who'd apparently deal with it. The interest doesn't show up as a number anywhere. It shows up in the one thing you actually needed to see clearly, buried under three hundred things nobody ever called.
+Most of mine weren't that. Undecided means you never looked hard enough to choose. "Decide" wasn't a path, it was a waiting room with no door out of it. Every item I'd never ruled on was a small debt against a future version of me who'd apparently deal with it. The interest doesn't show up as a number. It shows up in the one thing you needed to see clearly, buried under three hundred things nobody ever called.
 
-### The bottleneck moved and nobody sent a memo
+### The friction was doing the triage
 
-This is the part that generalises past my own list. When capture and building both cost something, the cost itself did the triage for you. You only wrote down, or started, what had already survived a rough mental cost-benefit. Cheap tools took the friction away without putting anything in its place. Nothing dies at the door any more. Everything gets in, and it all waits on the one thing that never got any cheaper: someone actually looking at it and calling it.
+This isn't just my list. When capture and building both cost something, the cost did the triage for you — you only started what had already survived a rough mental sum. Take that away and put nothing in its place, and nothing dies at the door. Everything gets in, and it all waits on the one thing that never got cheaper: someone looking at it and calling it.
 
-That's true of a personal task list. It's just as true of a team's roadmap, or a department's list of things it could digitise given the budget. The tools got faster at producing candidates. Nobody got faster at judging them. So the debt piles up exactly where efficiency never reached.
+That's a personal task list. It's also a team's roadmap, or a department's list of things it could digitise given the budget. The tools got faster at producing candidates. Nobody got faster at judging them.
 
-### The discipline is the verdict
+### So what actually fixed it?
 
-I've put a rule on myself: nothing sits undecided longer than a week. Not a vague aspiration to "review the backlog" at some point. An actual cap. When I hit it, I have to say build, park, or bin, out loud, and mean it. Parking is allowed. Silence isn't.
+Judgement, still. Nothing I've built makes a call for me and I wouldn't want it to. What changed is that judgement now has one place to happen.
 
-It feels worse than doing nothing, at first. Saying no costs a small flinch every time; doing nothing costs nothing you can feel yet, which is exactly why it wins by default. But an unruled backlog was never neutral. It's a monument to every decision you found too comfortable to make, wearing the costume of a to-do list.
+It's the same task list everywhere. Phone, laptop, wherever I am. I spend nothing deciding where a thing goes, because there's only one place it can go — no notes app, no half-used kanban board, no service I signed up to last year and forgot.
 
-Cheap tools were always going to hand us more ideas than anyone could build in a lifetime. That was never going to be the hard part. The hard part is the one thing that hasn't got any cheaper, however good the tools get: deciding, out loud, what's actually worth your time.
+It deduplicates itself. I capture the same idea three times — I know I do, and I won't stop — and the system sorts that out rather than me policing it.
+
+The payoff isn't tidiness. It's that the idea is out of my head. I'm hypervigilant by default, and anything unlogged keeps running in the background. That's what eats focus. Once it's in, it's in an action path, even if that path is paused on its workstream. Paused is fine. Waiting in the queue to get on the roller coaster is part of the ride.
+
+So the debt was never the things I hadn't done. It was the things with no path at all. Cheap tools were always going to hand us more ideas than anyone could build in a lifetime; that was never the hard part. The hard part is the bit that hasn't got cheaper: deciding what's worth your time, and having one place you trust for everything else.
 
 ---
 

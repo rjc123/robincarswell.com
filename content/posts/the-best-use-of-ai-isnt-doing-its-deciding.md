@@ -2,7 +2,7 @@
 title: The best use of AI isn't doing. It's deciding.
 description: "Everyone hands the model their to-do list first. The best use I found for it all year was never on that list."
 summary: "In the first week of my AI sabbatical I had the model open and ready to build, and I closed it again without writing a line of code. I spent that week arguing with it instead about what I actually wanted from the next six months. That conversation, not any of the tens of thousands of lines I went on to write afterwards, turned out to be the best use of AI I made all year. It's also not the one most people reach for first."
-date: 2026-09-08T14:40:00Z
+date: 2026-09-22T13:08:00+01:00
 draft: true
 categories:
   - "Working Life"
@@ -31,6 +31,10 @@ I don't know yet how far that generalises past my own sabbatical. But six months
 ### So point it at the thing that's actually scarce
 
 The task queue was always going to get automated, model or no model. What's still genuinely scarce is someone willing to sit still long enough to decide, out loud, what's worth doing at all. Point the most capable tool you own at your to-do list and you'll get through it faster. Point it at the decision you've been avoiding, and you might actually change what's on the list.
+
+Which leaves me with a question I keep circling and haven't answered. The thing I've described here — sitting down with someone and working out what's actually worth doing — is most of what I know how to do, and I've spent the sabbatical building the scaffolding that makes me better at it. Should I be productising that? I honestly don't know yet.
+
+If you want to see what I've been building out here, get in touch. I'd rather talk it through with someone than keep turning it over on my own.
 
 ---
 
