@@ -22,7 +22,7 @@ That distinction is the whole game, and it's the one most writing about AI tools
 
 ### How I run client work
 
-I now have a repeatable way to walk into an organisation and map how its technology and operations actually fit together. A workflow for taking an opportunity from the first introduction, through each conversation, to a clear decision. A library of the reusable parts of a consulting engagement, so I'm never starting from a blank page.
+I now have a repeatable way to walk into an organisation and map how its technology and operations actually fit together. A workflow for taking an opportunity from the first introduction, through each conversation, to a clear decision. A library of the reusable parts of a consulting engagement, ready to fill in as real engagements go through it.
 
 None of those is individually clever. The point is that "do a technology audit" went from a daunting, bespoke, start-from-scratch effort to something I can run to a known standard, the same way, every time. Consistency is a capability in its own right, and it's the one clients actually pay for.
 
